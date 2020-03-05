@@ -1,24 +1,24 @@
 import React from 'react';
-import {SafeAreaView, StyleSheet, View, Text, StatusBar} from 'react-native';
+import {StyleSheet} from 'react-native';
+
+import {createDrawerNavigator} from '@react-navigation/drawer';
+import {NavigationContainer} from '@react-navigation/native';
+import Home from './screens/home';
+
+const Drawer = createDrawerNavigator();
 
 const App = () => {
   return (
-    <>
-      <StatusBar barStyle="dark-content" />
-      <SafeAreaView>
-        <View style={styles.sectionContainer}>
-          <Text>Learn More</Text>
-          <Text>Read the docs to discover what to do next:</Text>
-        </View>
-      </SafeAreaView>
-    </>
+    <NavigationContainer>
+      <Drawer.Navigator initialRouteName="Home">
+        <Drawer.Screen name="Home" component={Home} />
+        <Drawer.Screen name="Profile" component={Home} />
+        <Drawer.Screen name="Settings" component={Home} />
+      </Drawer.Navigator>
+    </NavigationContainer>
   );
 };
 
-const styles = StyleSheet.create({
-  sectionContainer: {
-    backgroundColor: 'white',
-  },
-});
+const styles = StyleSheet.create({});
 
 export default App;
