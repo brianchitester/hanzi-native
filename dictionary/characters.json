@@ -2,7 +2,7 @@
     "1": {
         "traditional": "我",
         "simplified": "我",
-        "definition": "I ; me",
+        "definition": "I, me",
         "pinyin": "wǒ"
     },
     "2": {
@@ -20,7 +20,7 @@
     "4": {
         "traditional": "是",
         "simplified": "是",
-        "definition": "to be; is",
+        "definition": "to be, is",
         "pinyin": "shì"
     },
     "5": {
@@ -32,7 +32,7 @@
     "6": {
         "traditional": "不",
         "simplified": "不",
-        "definition": "no; not",
+        "definition": "no, not",
         "pinyin": "bù"
     },
     "7": {
@@ -50,13 +50,13 @@
     "9": {
         "traditional": "一",
         "simplified": "一",
-        "definition": "one; a",
+        "definition": "one, a",
         "pinyin": "yī"
     },
     "10": {
         "traditional": "他",
         "simplified": "他",
-        "definition": "he; him",
+        "definition": "he, him",
         "pinyin": "tā"
     },
     "11": {
@@ -74,7 +74,7 @@
     "13": {
         "traditional": "有",
         "simplified": "有",
-        "definition": "to have; there is",
+        "definition": "to have, there is",
         "pinyin": "yǒu"
     },
     "14": {
@@ -86,7 +86,7 @@
     "15": {
         "traditional": "好",
         "simplified": "好",
-        "definition": "good; well",
+        "definition": "good, well",
         "pinyin": "hǎo"
     },
     "16": {
@@ -98,7 +98,7 @@
     "17": {
         "traditional": "人",
         "simplified": "人",
-        "definition": "man; person",
+        "definition": "man, person",
         "pinyin": "rén"
     },
     "18": {
@@ -110,19 +110,19 @@
     "19": {
         "traditional": "要",
         "simplified": "要",
-        "definition": "to want; important",
+        "definition": "to want, important",
         "pinyin": "yào"
     },
     "20": {
         "traditional": "會",
         "simplified": "会",
-        "definition": "can; will; to know",
+        "definition": "can, will, to know",
         "pinyin": "huì"
     },
     "21": {
         "traditional": "就",
         "simplified": "就",
-        "definition": "then; just (emp.)",
+        "definition": "then, just (emp.)",
         "pinyin": "jiù"
     },
     "22": {
@@ -140,7 +140,7 @@
     "24": {
         "traditional": "到",
         "simplified": "到",
-        "definition": "to arrive; until (time)",
+        "definition": "to arrive, until (time)",
         "pinyin": "dào"
     },
     "25": {
@@ -158,13 +158,13 @@
     "27": {
         "traditional": "為",
         "simplified": "为",
-        "definition": "because of; for",
+        "definition": "because of, for",
         "pinyin": "wèi"
     },
     "28": {
         "traditional": "想",
         "simplified": "想",
-        "definition": "to think; to want",
+        "definition": "to think, to want",
         "pinyin": "xiǎng"
     },
     "29": {
@@ -176,7 +176,7 @@
     "30": {
         "traditional": "上",
         "simplified": "上",
-        "definition": "above; top",
+        "definition": "above, top",
         "pinyin": "shàng"
     },
     "31": {
@@ -188,7 +188,7 @@
     "32": {
         "traditional": "道",
         "simplified": "道",
-        "definition": "way; method",
+        "definition": "way, method",
         "pinyin": "dào"
     },
     "33": {
@@ -206,13 +206,13 @@
     "35": {
         "traditional": "看",
         "simplified": "看",
-        "definition": "to see; to look at",
+        "definition": "to see, to look at",
         "pinyin": "kàn"
     },
     "36": {
         "traditional": "可",
         "simplified": "可",
-        "definition": "can; able to",
+        "definition": "can, able to",
         "pinyin": "kě"
     },
     "37": {
@@ -242,13 +242,13 @@
     "41": {
         "traditional": "還",
         "simplified": "还",
-        "definition": "still; yet; to return",
+        "definition": "still, yet, to return",
         "pinyin": "hái"
     },
     "42": {
         "traditional": "對",
         "simplified": "对",
-        "definition": "correct; opposite",
+        "definition": "correct, opposite",
         "pinyin": "duì"
     },
     "43": {
@@ -260,19 +260,19 @@
     "44": {
         "traditional": "以",
         "simplified": "以",
-        "definition": "according to; by",
+        "definition": "according to, by",
         "pinyin": "yǐ"
     },
     "45": {
         "traditional": "都",
         "simplified": "都",
-        "definition": "all; both",
+        "definition": "all, both",
         "pinyin": "dōu"
     },
     "46": {
         "traditional": "事",
         "simplified": "事",
-        "definition": "thing; item",
+        "definition": "thing, item",
         "pinyin": "shì"
     },
     "47": {
@@ -284,7 +284,7 @@
     "48": {
         "traditional": "生",
         "simplified": "生",
-        "definition": "life; raw",
+        "definition": "life, raw",
         "pinyin": "shēng"
     },
     "49": {
@@ -302,7 +302,7 @@
     "51": {
         "traditional": "也",
         "simplified": "也",
-        "definition": "also; too",
+        "definition": "also, too",
         "pinyin": "yě"
     },
     "52": {
@@ -314,13 +314,13 @@
     "53": {
         "traditional": "下",
         "simplified": "下",
-        "definition": "below; down",
+        "definition": "below, down",
         "pinyin": "xià"
     },
     "54": {
         "traditional": "真",
         "simplified": "真",
-        "definition": "really; truly",
+        "definition": "really, truly",
         "pinyin": "zhēn"
     },
     "55": {
@@ -362,7 +362,7 @@
     "61": {
         "traditional": "點",
         "simplified": "点",
-        "definition": "a dot; o'clock",
+        "definition": "a dot, o'clock",
         "pinyin": "diǎn"
     },
     "62": {
@@ -374,37 +374,37 @@
     "63": {
         "traditional": "天",
         "simplified": "天",
-        "definition": "day; heaven",
+        "definition": "day, heaven",
         "pinyin": "tiān"
     },
     "64": {
         "traditional": "把",
         "simplified": "把",
-        "definition": "direct object p.; to hold",
+        "definition": "direct object p., to hold",
         "pinyin": "bǎ"
     },
     "65": {
         "traditional": "開",
         "simplified": "开",
-        "definition": "to open; to start",
+        "definition": "to open, to start",
         "pinyin": "kāi"
     },
     "66": {
         "traditional": "讓",
         "simplified": "让",
-        "definition": "to allow; passive p.",
+        "definition": "to allow, passive p.",
         "pinyin": "ràng"
     },
     "67": {
         "traditional": "給",
         "simplified": "给",
-        "definition": "to give; for; passive p.",
+        "definition": "to give, for, passive p.",
         "pinyin": "gěi"
     },
     "68": {
         "traditional": "但",
         "simplified": "但",
-        "definition": "but; yet",
+        "definition": "but, yet",
         "pinyin": "dàn"
     },
     "69": {
@@ -428,25 +428,25 @@
     "72": {
         "traditional": "些",
         "simplified": "些",
-        "definition": "some; few",
+        "definition": "some, few",
         "pinyin": "xiē"
     },
     "73": {
         "traditional": "如",
         "simplified": "如",
-        "definition": "as; as if",
+        "definition": "as, as if",
         "pinyin": "rú"
     },
     "74": {
         "traditional": "家",
         "simplified": "家",
-        "definition": "home; family",
+        "definition": "home, family",
         "pinyin": "jiā"
     },
     "75": {
         "traditional": "後",
         "simplified": "后",
-        "definition": "behind; after",
+        "definition": "behind, after",
         "pinyin": "hòu "
     },
     "76": {
@@ -458,31 +458,31 @@
     "77": {
         "traditional": "多",
         "simplified": "多",
-        "definition": "many; much",
+        "definition": "many, much",
         "pinyin": "duō"
     },
     "78": {
         "traditional": "意",
         "simplified": "意",
-        "definition": "idea; meaning",
+        "definition": "idea, meaning",
         "pinyin": "yì"
     },
     "79": {
         "traditional": "別",
         "simplified": "别",
-        "definition": "must not; other",
+        "definition": "must not, other",
         "pinyin": "bié"
     },
     "80": {
         "traditional": "所",
         "simplified": "所",
-        "definition": "actually; place",
+        "definition": "actually, place",
         "pinyin": "suǒ"
     },
     "81": {
         "traditional": "話",
         "simplified": "话",
-        "definition": "language; talk",
+        "definition": "language, talk",
         "pinyin": "huà"
     },
     "82": {
@@ -500,7 +500,7 @@
     "84": {
         "traditional": "回",
         "simplified": "回",
-        "definition": "to answer; to return",
+        "definition": "to answer, to return",
         "pinyin": "huí"
     },
     "85": {
@@ -518,13 +518,13 @@
     "87": {
         "traditional": "發",
         "simplified": "发",
-        "definition": "to send; to develop",
+        "definition": "to send, to develop",
         "pinyin": "fā"
     },
     "88": {
         "traditional": "見",
         "simplified": "见",
-        "definition": "to see; to meet",
+        "definition": "to see, to meet",
         "pinyin": "jiàn"
     },
     "89": {
@@ -536,7 +536,7 @@
     "90": {
         "traditional": "走",
         "simplified": "走",
-        "definition": "to walk; away",
+        "definition": "to walk, away",
         "pinyin": "zǒu"
     },
     "91": {
@@ -572,7 +572,7 @@
     "96": {
         "traditional": "當",
         "simplified": "当",
-        "definition": "to be; just at",
+        "definition": "to be, just at",
         "pinyin": "dāng"
     },
     "97": {
@@ -608,7 +608,7 @@
     "102": {
         "traditional": "再",
         "simplified": "再",
-        "definition": "again; then",
+        "definition": "again, then",
         "pinyin": "zài"
     },
     "103": {
@@ -620,7 +620,7 @@
     "104": {
         "traditional": "呢",
         "simplified": "呢",
-        "definition": "how about…?; continuing p.",
+        "definition": "how about…?, continuing p.",
         "pinyin": "ne"
     },
     "105": {
@@ -638,7 +638,7 @@
     "107": {
         "traditional": "最",
         "simplified": "最",
-        "definition": "most; -est",
+        "definition": "most, -est",
         "pinyin": "zuì"
     },
     "108": {
@@ -662,19 +662,19 @@
     "111": {
         "traditional": "行",
         "simplified": "行",
-        "definition": "to travel; OK!",
+        "definition": "to travel, OK!",
         "pinyin": "xíng"
     },
     "112": {
         "traditional": "快",
         "simplified": "快",
-        "definition": "rapid; almost",
+        "definition": "rapid, almost",
         "pinyin": "kuài"
     },
     "113": {
         "traditional": "而",
         "simplified": "而",
-        "definition": "and; as well as",
+        "definition": "and, as well as",
         "pinyin": "ér"
     },
     "114": {
@@ -686,19 +686,19 @@
     "115": {
         "traditional": "先",
         "simplified": "先",
-        "definition": "first; former",
+        "definition": "first, former",
         "pinyin": "xiān"
     },
     "116": {
         "traditional": "像",
         "simplified": "像",
-        "definition": "to be like; image",
+        "definition": "to be like, image",
         "pinyin": "xiàng"
     },
     "117": {
         "traditional": "等",
         "simplified": "等",
-        "definition": "rank; to wait for",
+        "definition": "rank, to wait for",
         "pinyin": "děng"
     },
     "118": {
@@ -710,7 +710,7 @@
     "119": {
         "traditional": "從",
         "simplified": "从",
-        "definition": "from; to follow",
+        "definition": "from, to follow",
         "pinyin": "cóng"
     },
     "120": {
@@ -746,19 +746,19 @@
     "125": {
         "traditional": "跟",
         "simplified": "跟",
-        "definition": "with; to follow",
+        "definition": "with, to follow",
         "pinyin": "gēn"
     },
     "126": {
         "traditional": "面",
         "simplified": "面",
-        "definition": "side; aspect",
+        "definition": "side, aspect",
         "pinyin": "miàn"
     },
     "127": {
         "traditional": "訴",
         "simplified": "诉",
-        "definition": "to tell; to complain",
+        "definition": "to tell, to complain",
         "pinyin": "sù"
     },
     "128": {
@@ -788,7 +788,7 @@
     "132": {
         "traditional": "錯",
         "simplified": "错",
-        "definition": "mistake; bad",
+        "definition": "mistake, bad",
         "pinyin": "cuò"
     },
     "133": {
@@ -818,7 +818,7 @@
     "137": {
         "traditional": "感",
         "simplified": "感",
-        "definition": "to feel; emotion",
+        "definition": "to feel, emotion",
         "pinyin": "gǎn"
     },
     "138": {
@@ -842,7 +842,7 @@
     "141": {
         "traditional": "間",
         "simplified": "间",
-        "definition": "between; room",
+        "definition": "between, room",
         "pinyin": "jiān"
     },
     "142": {
@@ -866,7 +866,7 @@
     "145": {
         "traditional": "候",
         "simplified": "候",
-        "definition": "to wait; season",
+        "definition": "to wait, season",
         "pinyin": "hòu"
     },
     "146": {
@@ -878,7 +878,7 @@
     "147": {
         "traditional": "信",
         "simplified": "信",
-        "definition": "letter; to trust",
+        "definition": "letter, to trust",
         "pinyin": "xìn"
     },
     "148": {
@@ -890,13 +890,13 @@
     "149": {
         "traditional": "正",
         "simplified": "正",
-        "definition": "just (right); correct",
+        "definition": "just (right), correct",
         "pinyin": "zhèng"
     },
     "150": {
         "traditional": "實",
         "simplified": "实",
-        "definition": "real; honest",
+        "definition": "real, honest",
         "pinyin": "shí"
     },
     "151": {
@@ -938,7 +938,7 @@
     "157": {
         "traditional": "克",
         "simplified": "克",
-        "definition": "gram; to overcome",
+        "definition": "gram, to overcome",
         "pinyin": "kè"
     },
     "158": {
@@ -956,7 +956,7 @@
     "160": {
         "traditional": "方",
         "simplified": "方",
-        "definition": "place; square",
+        "definition": "place, square",
         "pinyin": "fāng"
     },
     "161": {
@@ -968,7 +968,7 @@
     "162": {
         "traditional": "應",
         "simplified": "应",
-        "definition": "should; ought to",
+        "definition": "should, ought to",
         "pinyin": "yīng"
     },
     "163": {
@@ -986,13 +986,13 @@
     "165": {
         "traditional": "無",
         "simplified": "无",
-        "definition": "not to have; -less",
+        "definition": "not to have, -less",
         "pinyin": "wú"
     },
     "166": {
         "traditional": "晚",
         "simplified": "晚",
-        "definition": "evening; late",
+        "definition": "evening, late",
         "pinyin": "wǎn"
     },
     "167": {
@@ -1016,25 +1016,25 @@
     "170": {
         "traditional": "分",
         "simplified": "分",
-        "definition": "to divide; fraction",
+        "definition": "to divide, fraction",
         "pinyin": "fēn"
     },
     "171": {
         "traditional": "特",
         "simplified": "特",
-        "definition": "special; unique",
+        "definition": "special, unique",
         "pinyin": "tè"
     },
     "172": {
         "traditional": "相",
         "simplified": "相",
-        "definition": "mutual; each other",
+        "definition": "mutual, each other",
         "pinyin": "xiāng"
     },
     "173": {
         "traditional": "全",
         "simplified": "全",
-        "definition": "all; whole",
+        "definition": "all, whole",
         "pinyin": "quán"
     },
     "174": {
@@ -1046,7 +1046,7 @@
     "175": {
         "traditional": "需",
         "simplified": "需",
-        "definition": "to need; to want",
+        "definition": "to need, to want",
         "pinyin": "xū"
     },
     "176": {
@@ -1058,7 +1058,7 @@
     "177": {
         "traditional": "常",
         "simplified": "常",
-        "definition": "always; general",
+        "definition": "always, general",
         "pinyin": "cháng"
     },
     "178": {
@@ -1070,7 +1070,7 @@
     "179": {
         "traditional": "才",
         "simplified": "才",
-        "definition": "just now; ability",
+        "definition": "just now, ability",
         "pinyin": "cái"
     },
     "180": {
@@ -1082,19 +1082,19 @@
     "181": {
         "traditional": "於",
         "simplified": "于",
-        "definition": "in; at; on",
+        "definition": "in, at, on",
         "pinyin": "yú"
     },
     "182": {
         "traditional": "帶",
         "simplified": "带",
-        "definition": "to bring; belt",
+        "definition": "to bring, belt",
         "pinyin": "dài"
     },
     "183": {
         "traditional": "今",
         "simplified": "今",
-        "definition": "today; now",
+        "definition": "today, now",
         "pinyin": "jīn"
     },
     "184": {
@@ -1130,19 +1130,19 @@
     "189": {
         "traditional": "同",
         "simplified": "同",
-        "definition": "same; similar",
+        "definition": "same, similar",
         "pinyin": "tóng"
     },
     "190": {
         "traditional": "長",
         "simplified": "长",
-        "definition": "long; length",
+        "definition": "long, length",
         "pinyin": "cháng"
     },
     "191": {
         "traditional": "親",
         "simplified": "亲",
-        "definition": "parent; relative",
+        "definition": "parent, relative",
         "pinyin": "qīn"
     },
     "192": {
@@ -1166,7 +1166,7 @@
     "195": {
         "traditional": "白",
         "simplified": "白",
-        "definition": "white; pure",
+        "definition": "white, pure",
         "pinyin": "bái"
     },
     "196": {
@@ -1178,13 +1178,13 @@
     "197": {
         "traditional": "安",
         "simplified": "安",
-        "definition": "safe; calm",
+        "definition": "safe, calm",
         "pinyin": "ān"
     },
     "198": {
         "traditional": "爾",
         "simplified": "尔",
-        "definition": "thus; thou",
+        "definition": "thus, thou",
         "pinyin": "ěr"
     },
     "199": {
@@ -1196,13 +1196,13 @@
     "200": {
         "traditional": "理",
         "simplified": "理",
-        "definition": "essence; truth",
+        "definition": "essence, truth",
         "pinyin": "lǐ"
     },
     "201": {
         "traditional": "本",
         "simplified": "本",
-        "definition": "mw. for books; origin",
+        "definition": "mw. for books, origin",
         "pinyin": "běn"
     },
     "202": {
@@ -1226,7 +1226,7 @@
     "205": {
         "traditional": "高",
         "simplified": "高",
-        "definition": "high; tall",
+        "definition": "high, tall",
         "pinyin": "gāo"
     },
     "206": {
@@ -1256,7 +1256,7 @@
     "210": {
         "traditional": "重",
         "simplified": "重",
-        "definition": "heavy; serious",
+        "definition": "heavy, serious",
         "pinyin": "zhòng"
     },
     "211": {
@@ -1286,7 +1286,7 @@
     "215": {
         "traditional": "住",
         "simplified": "住",
-        "definition": "to live; to reside",
+        "definition": "to live, to reside",
         "pinyin": "zhù"
     },
     "216": {
@@ -1298,7 +1298,7 @@
     "217": {
         "traditional": "加",
         "simplified": "加",
-        "definition": "to add; plus",
+        "definition": "to add, plus",
         "pinyin": "jiā"
     },
     "218": {
@@ -1310,25 +1310,25 @@
     "219": {
         "traditional": "伙",
         "simplified": "伙",
-        "definition": "companion; buddy",
+        "definition": "companion, buddy",
         "pinyin": "huǒ"
     },
     "220": {
         "traditional": "題",
         "simplified": "题",
-        "definition": "topic; subject",
+        "definition": "topic, subject",
         "pinyin": "tí"
     },
     "221": {
         "traditional": "完",
         "simplified": "完",
-        "definition": "to finish; complete",
+        "definition": "to finish, complete",
         "pinyin": "wán"
     },
     "222": {
         "traditional": "接",
         "simplified": "接",
-        "definition": "to receive; to join",
+        "definition": "to receive, to join",
         "pinyin": "jiē"
     },
     "223": {
@@ -1340,25 +1340,25 @@
     "224": {
         "traditional": "望",
         "simplified": "望",
-        "definition": "to gaze; to hope",
+        "definition": "to gaze, to hope",
         "pinyin": "wàng"
     },
     "225": {
         "traditional": "解",
         "simplified": "解",
-        "definition": "to divide; to explain",
+        "definition": "to divide, to explain",
         "pinyin": "jiě"
     },
     "226": {
         "traditional": "其",
         "simplified": "其",
-        "definition": "his; hers; its",
+        "definition": "his, hers, its",
         "pinyin": "qí"
     },
     "227": {
         "traditional": "離",
         "simplified": "离",
-        "definition": "to leave; (distance) from",
+        "definition": "to leave, (distance) from",
         "pinyin": "lí"
     },
     "228": {
@@ -1370,7 +1370,7 @@
     "229": {
         "traditional": "又",
         "simplified": "又",
-        "definition": "again; also",
+        "definition": "again, also",
         "pinyin": "yòu"
     },
     "230": {
@@ -1400,13 +1400,13 @@
     "234": {
         "traditional": "思",
         "simplified": "思",
-        "definition": "to think; to consider",
+        "definition": "to think, to consider",
         "pinyin": "sī"
     },
     "235": {
         "traditional": "部",
         "simplified": "部",
-        "definition": "section; part",
+        "definition": "section, part",
         "pinyin": "bù"
     },
     "236": {
@@ -1430,13 +1430,13 @@
     "239": {
         "traditional": "任",
         "simplified": "任",
-        "definition": "to appoint; office",
+        "definition": "to appoint, office",
         "pinyin": "rèn"
     },
     "240": {
         "traditional": "確",
         "simplified": "确",
-        "definition": "solid; real",
+        "definition": "solid, real",
         "pinyin": "què"
     },
     "241": {
@@ -1460,7 +1460,7 @@
     "244": {
         "traditional": "利",
         "simplified": "利",
-        "definition": "sharp; benefit",
+        "definition": "sharp, benefit",
         "pinyin": "lì"
     },
     "245": {
@@ -1472,19 +1472,19 @@
     "246": {
         "traditional": "警",
         "simplified": "警",
-        "definition": "police; to warn",
+        "definition": "police, to warn",
         "pinyin": "jǐng"
     },
     "247": {
         "traditional": "士",
         "simplified": "士",
-        "definition": "scholar; soldier",
+        "definition": "scholar, soldier",
         "pinyin": "shì"
     },
     "248": {
         "traditional": "外",
         "simplified": "外",
-        "definition": "outside; foreign",
+        "definition": "outside, foreign",
         "pinyin": "wài"
     },
     "249": {
@@ -1514,7 +1514,7 @@
     "253": {
         "traditional": "剛",
         "simplified": "刚",
-        "definition": "just (now); hard",
+        "definition": "just (now), hard",
         "pinyin": "gāng"
     },
     "254": {
@@ -1538,19 +1538,19 @@
     "257": {
         "traditional": "邊",
         "simplified": "边",
-        "definition": "side; edge",
+        "definition": "side, edge",
         "pinyin": "biān"
     },
     "258": {
         "traditional": "或",
         "simplified": "或",
-        "definition": "maybe; perhaps",
+        "definition": "maybe, perhaps",
         "pinyin": "huò"
     },
     "259": {
         "traditional": "將",
         "simplified": "将",
-        "definition": "will; shall",
+        "definition": "will, shall",
         "pinyin": "jiāng"
     },
     "260": {
@@ -1580,13 +1580,13 @@
     "264": {
         "traditional": "物",
         "simplified": "物",
-        "definition": "thing; object",
+        "definition": "thing, object",
         "pinyin": "wù"
     },
     "265": {
         "traditional": "員",
         "simplified": "员",
-        "definition": "employee; member",
+        "definition": "employee, member",
         "pinyin": "yuán"
     },
     "266": {
@@ -1604,7 +1604,7 @@
     "268": {
         "traditional": "系",
         "simplified": "系",
-        "definition": "system; to connect",
+        "definition": "system, to connect",
         "pinyin": "xì"
     },
     "269": {
@@ -1628,19 +1628,19 @@
     "272": {
         "traditional": "處",
         "simplified": "处",
-        "definition": "place; location",
+        "definition": "place, location",
         "pinyin": "chù"
     },
     "273": {
         "traditional": "辦",
         "simplified": "办",
-        "definition": "to do; to manage",
+        "definition": "to do, to manage",
         "pinyin": "bàn"
     },
     "274": {
         "traditional": "主",
         "simplified": "主",
-        "definition": "master; main",
+        "definition": "master, main",
         "pinyin": "zhǔ"
     },
     "275": {
@@ -1652,19 +1652,19 @@
     "276": {
         "traditional": "每",
         "simplified": "每",
-        "definition": "each; every",
+        "definition": "each, every",
         "pinyin": "měi"
     },
     "277": {
         "traditional": "少",
         "simplified": "少",
-        "definition": "few; little",
+        "definition": "few, little",
         "pinyin": "shǎo"
     },
     "278": {
         "traditional": "切",
         "simplified": "切",
-        "definition": "to cut; to slice",
+        "definition": "to cut, to slice",
         "pinyin": "qiē"
     },
     "279": {
@@ -1682,19 +1682,19 @@
     "281": {
         "traditional": "性",
         "simplified": "性",
-        "definition": "nature; gender",
+        "definition": "nature, gender",
         "pinyin": "xìng"
     },
     "282": {
         "traditional": "此",
         "simplified": "此",
-        "definition": "this; these",
+        "definition": "this, these",
         "pinyin": "cǐ"
     },
     "283": {
         "traditional": "必",
         "simplified": "必",
-        "definition": "must; will",
+        "definition": "must, will",
         "pinyin": "bì"
     },
     "284": {
@@ -1706,25 +1706,25 @@
     "285": {
         "traditional": "合",
         "simplified": "合",
-        "definition": "to close; together",
+        "definition": "to close, together",
         "pinyin": "hé"
     },
     "286": {
         "traditional": "德",
         "simplified": "德",
-        "definition": "virtue; ethics",
+        "definition": "virtue, ethics",
         "pinyin": "dé"
     },
     "287": {
         "traditional": "隊",
         "simplified": "队",
-        "definition": "team; group",
+        "definition": "team, group",
         "pinyin": "duì"
     },
     "288": {
         "traditional": "試",
         "simplified": "试",
-        "definition": "to test; to try",
+        "definition": "to test, to try",
         "pinyin": "shì"
     },
     "289": {
@@ -1742,13 +1742,13 @@
     "291": {
         "traditional": "通",
         "simplified": "通",
-        "definition": "to connect; open",
+        "definition": "to connect, open",
         "pinyin": "tōng"
     },
     "292": {
         "traditional": "體",
         "simplified": "体",
-        "definition": "body; form",
+        "definition": "body, form",
         "pinyin": "tǐ"
     },
     "293": {
@@ -1772,13 +1772,13 @@
     "296": {
         "traditional": "早",
         "simplified": "早",
-        "definition": "early; morning",
+        "definition": "early, morning",
         "pinyin": "zǎo"
     },
     "297": {
         "traditional": "門",
         "simplified": "门",
-        "definition": "door; gate",
+        "definition": "door, gate",
         "pinyin": "mén"
     },
     "298": {
@@ -1808,43 +1808,43 @@
     "302": {
         "traditional": "房",
         "simplified": "房",
-        "definition": "house; room",
+        "definition": "house, room",
         "pinyin": "fáng"
     },
     "303": {
         "traditional": "命",
         "simplified": "命",
-        "definition": "life; fate",
+        "definition": "life, fate",
         "pinyin": "mìng"
     },
     "304": {
         "traditional": "且",
         "simplified": "且",
-        "definition": "moreover; both",
+        "definition": "moreover, both",
         "pinyin": "qiě"
     },
     "305": {
         "traditional": "向",
         "simplified": "向",
-        "definition": "towards; direction",
+        "definition": "towards, direction",
         "pinyin": "xiàng"
     },
     "306": {
         "traditional": "興",
         "simplified": "兴",
-        "definition": "to rise; to flourish",
+        "definition": "to rise, to flourish",
         "pinyin": "xīng"
     },
     "307": {
         "traditional": "球",
         "simplified": "球",
-        "definition": "ball; sphere",
+        "definition": "ball, sphere",
         "pinyin": "qiú"
     },
     "308": {
         "traditional": "服",
         "simplified": "服",
-        "definition": "clothes; to serve",
+        "definition": "clothes, to serve",
         "pinyin": "fú"
     },
     "309": {
@@ -1856,7 +1856,7 @@
     "310": {
         "traditional": "照",
         "simplified": "照",
-        "definition": "according to; to shine",
+        "definition": "according to, to shine",
         "pinyin": "zhào"
     },
     "311": {
@@ -1868,7 +1868,7 @@
     "312": {
         "traditional": "掉",
         "simplified": "掉",
-        "definition": "to fall; to lose",
+        "definition": "to fall, to lose",
         "pinyin": "diào"
     },
     "313": {
@@ -1886,7 +1886,7 @@
     "315": {
         "traditional": "演",
         "simplified": "演",
-        "definition": "to act; to develop",
+        "definition": "to act, to develop",
         "pinyin": "yǎn"
     },
     "316": {
@@ -1898,13 +1898,13 @@
     "317": {
         "traditional": "日",
         "simplified": "日",
-        "definition": "sun; day",
+        "definition": "sun, day",
         "pinyin": "rì"
     },
     "318": {
         "traditional": "案",
         "simplified": "案",
-        "definition": "legal case; record",
+        "definition": "legal case, record",
         "pinyin": "àn"
     },
     "319": {
@@ -1922,25 +1922,25 @@
     "321": {
         "traditional": "求",
         "simplified": "求",
-        "definition": "to look for; to request",
+        "definition": "to look for, to request",
         "pinyin": "qiú"
     },
     "322": {
         "traditional": "約",
         "simplified": "约",
-        "definition": "appointment; to invite",
+        "definition": "appointment, to invite",
         "pinyin": "yuē"
     },
     "323": {
         "traditional": "字",
         "simplified": "字",
-        "definition": "word; character",
+        "definition": "word, character",
         "pinyin": "zì"
     },
     "324": {
         "traditional": "呃",
         "simplified": "呃",
-        "definition": "belch; hiccup",
+        "definition": "belch, hiccup",
         "pinyin": "è "
     },
     "325": {
@@ -1970,7 +1970,7 @@
     "329": {
         "traditional": "神",
         "simplified": "神",
-        "definition": "deity; spirit",
+        "definition": "deity, spirit",
         "pinyin": "shén"
     },
     "330": {
@@ -1982,7 +1982,7 @@
     "331": {
         "traditional": "指",
         "simplified": "指",
-        "definition": "finger; refer to",
+        "definition": "finger, refer to",
         "pinyin": "zhǐ"
     },
     "332": {
@@ -1994,13 +1994,13 @@
     "333": {
         "traditional": "留",
         "simplified": "留",
-        "definition": "to stay; to remain",
+        "definition": "to stay, to remain",
         "pinyin": "liú"
     },
     "334": {
         "traditional": "水",
         "simplified": "水",
-        "definition": "water; liquid",
+        "definition": "water, liquid",
         "pinyin": "shuǐ"
     },
     "335": {
@@ -2036,19 +2036,19 @@
     "340": {
         "traditional": "世",
         "simplified": "世",
-        "definition": "life; age; world",
+        "definition": "life, age, world",
         "pinyin": "shì"
     },
     "341": {
         "traditional": "遠",
         "simplified": "远",
-        "definition": "far; distant",
+        "definition": "far, distant",
         "pinyin": "yuǎn"
     },
     "342": {
         "traditional": "片",
         "simplified": "片",
-        "definition": "thin piece; slice",
+        "definition": "thin piece, slice",
         "pinyin": "piàn"
     },
     "343": {
@@ -2066,7 +2066,7 @@
     "345": {
         "traditional": "師",
         "simplified": "师",
-        "definition": "teacher; master",
+        "definition": "teacher, master",
         "pinyin": "shī"
     },
     "346": {
@@ -2084,7 +2084,7 @@
     "348": {
         "traditional": "周",
         "simplified": "周",
-        "definition": "circle; week",
+        "definition": "circle, week",
         "pinyin": "zhōu"
     },
     "349": {
@@ -2114,19 +2114,19 @@
     "353": {
         "traditional": "底",
         "simplified": "底",
-        "definition": "bottom; end",
+        "definition": "bottom, end",
         "pinyin": "dǐ"
     },
     "354": {
         "traditional": "棒",
         "simplified": "棒",
-        "definition": "wonderful; stick",
+        "definition": "wonderful, stick",
         "pinyin": "bàng"
     },
     "355": {
         "traditional": "須",
         "simplified": "须",
-        "definition": "must; beard",
+        "definition": "must, beard",
         "pinyin": "xū"
     },
     "356": {
@@ -2138,7 +2138,7 @@
     "357": {
         "traditional": "交",
         "simplified": "交",
-        "definition": "to deliver; to pay",
+        "definition": "to deliver, to pay",
         "pinyin": "jiāo"
     },
     "358": {
@@ -2156,7 +2156,7 @@
     "360": {
         "traditional": "卡",
         "simplified": "卡",
-        "definition": "card; to block",
+        "definition": "card, to block",
         "pinyin": "kǎ"
     },
     "361": {
@@ -2174,7 +2174,7 @@
     "363": {
         "traditional": "格",
         "simplified": "格",
-        "definition": "grid; pattern",
+        "definition": "grid, pattern",
         "pinyin": "gé"
     },
     "364": {
@@ -2198,7 +2198,7 @@
     "367": {
         "traditional": "息",
         "simplified": "息",
-        "definition": "breath; to rest",
+        "definition": "breath, to rest",
         "pinyin": "xī"
     },
     "368": {
@@ -2210,31 +2210,31 @@
     "369": {
         "traditional": "內",
         "simplified": "内",
-        "definition": "inside; inner",
+        "definition": "inside, inner",
         "pinyin": "nèi"
     },
     "370": {
         "traditional": "運",
         "simplified": "运",
-        "definition": "to move; fortune",
+        "definition": "to move, fortune",
         "pinyin": "yùn"
     },
     "371": {
         "traditional": "根",
         "simplified": "根",
-        "definition": "root; basis",
+        "definition": "root, basis",
         "pinyin": "gēn"
     },
     "372": {
         "traditional": "單",
         "simplified": "单",
-        "definition": "single; list",
+        "definition": "single, list",
         "pinyin": "dān"
     },
     "373": {
         "traditional": "寶",
         "simplified": "宝",
-        "definition": "jewel; treasure",
+        "definition": "jewel, treasure",
         "pinyin": "bǎo"
     },
     "374": {
@@ -2252,13 +2252,13 @@
     "376": {
         "traditional": "搞",
         "simplified": "搞",
-        "definition": "to make; to set up",
+        "definition": "to make, to set up",
         "pinyin": "gǎo"
     },
     "377": {
         "traditional": "戰",
         "simplified": "战",
-        "definition": "to fight; war",
+        "definition": "to fight, war",
         "pinyin": "zhàn"
     },
     "378": {
@@ -2270,7 +2270,7 @@
     "379": {
         "traditional": "羅",
         "simplified": "罗",
-        "definition": "gauze; to gather",
+        "definition": "gauze, to gather",
         "pinyin": "luó"
     },
     "380": {
@@ -2288,19 +2288,19 @@
     "382": {
         "traditional": "聲",
         "simplified": "声",
-        "definition": "sound; voice",
+        "definition": "sound, voice",
         "pinyin": "shēng"
     },
     "383": {
         "traditional": "布",
         "simplified": "布",
-        "definition": "cloth; to spread",
+        "definition": "cloth, to spread",
         "pinyin": "bù"
     },
     "384": {
         "traditional": "音",
         "simplified": "音",
-        "definition": "sound; noise",
+        "definition": "sound, noise",
         "pinyin": "yīn"
     },
     "385": {
@@ -2318,7 +2318,7 @@
     "387": {
         "traditional": "消",
         "simplified": "消",
-        "definition": "to vanish; need",
+        "definition": "to vanish, need",
         "pinyin": "xiāo"
     },
     "388": {
@@ -2330,7 +2330,7 @@
     "389": {
         "traditional": "病",
         "simplified": "病",
-        "definition": "illness; disease",
+        "definition": "illness, disease",
         "pinyin": "bìng"
     },
     "390": {
@@ -2354,13 +2354,13 @@
     "393": {
         "traditional": "犯",
         "simplified": "犯",
-        "definition": "to violate; to offend",
+        "definition": "to violate, to offend",
         "pinyin": "fàn"
     },
     "394": {
         "traditional": "裝",
         "simplified": "装",
-        "definition": "clothing; to pretend",
+        "definition": "clothing, to pretend",
         "pinyin": "zhuāng"
     },
     "395": {
@@ -2378,7 +2378,7 @@
     "397": {
         "traditional": "送",
         "simplified": "送",
-        "definition": "to give; to deliver",
+        "definition": "to give, to deliver",
         "pinyin": "sòng"
     },
     "398": {
@@ -2396,13 +2396,13 @@
     "400": {
         "traditional": "度",
         "simplified": "度",
-        "definition": "degree; measure",
+        "definition": "degree, measure",
         "pinyin": "dù"
     },
     "401": {
         "traditional": "花",
         "simplified": "花",
-        "definition": "flower; to spend",
+        "definition": "flower, to spend",
         "pinyin": "huā"
     },
     "402": {
@@ -2420,25 +2420,25 @@
     "404": {
         "traditional": "怪",
         "simplified": "怪",
-        "definition": "odd; monster",
+        "definition": "odd, monster",
         "pinyin": "guài"
     },
     "405": {
         "traditional": "持",
         "simplified": "持",
-        "definition": "to maintain; to manage",
+        "definition": "to maintain, to manage",
         "pinyin": "chí"
     },
     "406": {
         "traditional": "光",
         "simplified": "光",
-        "definition": "bright; only",
+        "definition": "bright, only",
         "pinyin": "guāng"
     },
     "407": {
         "traditional": "與",
         "simplified": "与",
-        "definition": "and; with",
+        "definition": "and, with",
         "pinyin": "yǔ"
     },
     "408": {
@@ -2450,13 +2450,13 @@
     "409": {
         "traditional": "願",
         "simplified": "愿",
-        "definition": "to hope; willing",
+        "definition": "to hope, willing",
         "pinyin": "yuàn"
     },
     "410": {
         "traditional": "象",
         "simplified": "象",
-        "definition": "elephant; form",
+        "definition": "elephant, form",
         "pinyin": "xiàng"
     },
     "411": {
@@ -2492,19 +2492,19 @@
     "416": {
         "traditional": "月",
         "simplified": "月",
-        "definition": "moon; month",
+        "definition": "moon, month",
         "pinyin": "yuè"
     },
     "417": {
         "traditional": "器",
         "simplified": "器",
-        "definition": "device; tool",
+        "definition": "device, tool",
         "pinyin": "qì"
     },
     "418": {
         "traditional": "察",
         "simplified": "察",
-        "definition": "to examine; to observe",
+        "definition": "to examine, to observe",
         "pinyin": "chá"
     },
     "419": {
@@ -2516,7 +2516,7 @@
     "420": {
         "traditional": "嘛",
         "simplified": "嘛",
-        "definition": "obvious p.; pause p.",
+        "definition": "obvious p., pause p.",
         "pinyin": "ma"
     },
     "421": {
@@ -2540,19 +2540,19 @@
     "424": {
         "traditional": "海",
         "simplified": "海",
-        "definition": "ocean; sea",
+        "definition": "ocean, sea",
         "pinyin": "hǎi"
     },
     "425": {
         "traditional": "待",
         "simplified": "待",
-        "definition": "to wait; about to",
+        "definition": "to wait, about to",
         "pinyin": "dài"
     },
     "426": {
         "traditional": "托",
         "simplified": "托",
-        "definition": "support; to entrust",
+        "definition": "support, to entrust",
         "pinyin": "tuō"
     },
     "427": {
@@ -2570,13 +2570,13 @@
     "429": {
         "traditional": "絕",
         "simplified": "绝",
-        "definition": "sever; absolutely",
+        "definition": "sever, absolutely",
         "pinyin": "jué"
     },
     "430": {
         "traditional": "界",
         "simplified": "界",
-        "definition": "boundary; scope",
+        "definition": "boundary, scope",
         "pinyin": "jiè"
     },
     "431": {
@@ -2594,7 +2594,7 @@
     "433": {
         "traditional": "反",
         "simplified": "反",
-        "definition": "contrary; opposite",
+        "definition": "contrary, opposite",
         "pinyin": "fǎn"
     },
     "434": {
@@ -2606,25 +2606,25 @@
     "435": {
         "traditional": "司",
         "simplified": "司",
-        "definition": "to manage; department",
+        "definition": "to manage, department",
         "pinyin": "sī"
     },
     "436": {
         "traditional": "強",
         "simplified": "强",
-        "definition": "strong; powerful",
+        "definition": "strong, powerful",
         "pinyin": "qiáng"
     },
     "437": {
         "traditional": "由",
         "simplified": "由",
-        "definition": "from; by",
+        "definition": "from, by",
         "pinyin": "yóu"
     },
     "438": {
         "traditional": "論",
         "simplified": "论",
-        "definition": "opinion; theory",
+        "definition": "opinion, theory",
         "pinyin": "lùn"
     },
     "439": {
@@ -2660,7 +2660,7 @@
     "444": {
         "traditional": "空",
         "simplified": "空",
-        "definition": "empty; air",
+        "definition": "empty, air",
         "pinyin": "kōng"
     },
     "445": {
@@ -2690,7 +2690,7 @@
     "449": {
         "traditional": "注",
         "simplified": "注",
-        "definition": "pay attention; to register",
+        "definition": "pay attention, to register",
         "pinyin": "zhù"
     },
     "450": {
@@ -2714,7 +2714,7 @@
     "453": {
         "traditional": "代",
         "simplified": "代",
-        "definition": "to substitute; era",
+        "definition": "to substitute, era",
         "pinyin": "dài"
     },
     "454": {
@@ -2726,7 +2726,7 @@
     "455": {
         "traditional": "壞",
         "simplified": "坏",
-        "definition": "bad; broken",
+        "definition": "bad, broken",
         "pinyin": "huài"
     },
     "456": {
@@ -2756,7 +2756,7 @@
     "460": {
         "traditional": "鐘",
         "simplified": "钟",
-        "definition": "clock; o'clock",
+        "definition": "clock, o'clock",
         "pinyin": "zhōng"
     },
     "461": {
@@ -2768,13 +2768,13 @@
     "462": {
         "traditional": "禮",
         "simplified": "礼",
-        "definition": "gift; ceremony",
+        "definition": "gift, ceremony",
         "pinyin": "lǐ"
     },
     "463": {
         "traditional": "數",
         "simplified": "数",
-        "definition": "number; figure",
+        "definition": "number, figure",
         "pinyin": "shù"
     },
     "464": {
@@ -2792,7 +2792,7 @@
     "466": {
         "traditional": "平",
         "simplified": "平",
-        "definition": "flat; equal",
+        "definition": "flat, equal",
         "pinyin": "píng"
     },
     "467": {
@@ -2834,13 +2834,13 @@
     "473": {
         "traditional": "調",
         "simplified": "调",
-        "definition": "to transfer; tone",
+        "definition": "to transfer, tone",
         "pinyin": "diào"
     },
     "474": {
         "traditional": "巴",
         "simplified": "巴",
-        "definition": "to stick to; close to",
+        "definition": "to stick to, close to",
         "pinyin": "bā"
     },
     "475": {
@@ -2852,19 +2852,19 @@
     "476": {
         "traditional": "緊",
         "simplified": "紧",
-        "definition": "strict; tight",
+        "definition": "strict, tight",
         "pinyin": "jǐn"
     },
     "477": {
         "traditional": "站",
         "simplified": "站",
-        "definition": "to stop; station",
+        "definition": "to stop, station",
         "pinyin": "zhàn"
     },
     "478": {
         "traditional": "品",
         "simplified": "品",
-        "definition": "goods; product",
+        "definition": "goods, product",
         "pinyin": "pǐn"
     },
     "479": {
@@ -2876,19 +2876,19 @@
     "480": {
         "traditional": "罪",
         "simplified": "罪",
-        "definition": "guilt; crime",
+        "definition": "guilt, crime",
         "pinyin": "zuì"
     },
     "481": {
         "traditional": "文",
         "simplified": "文",
-        "definition": "language; culture",
+        "definition": "language, culture",
         "pinyin": "wén"
     },
     "482": {
         "traditional": "亮",
         "simplified": "亮",
-        "definition": "bright; clear",
+        "definition": "bright, clear",
         "pinyin": "liàng"
     },
     "483": {
@@ -2906,7 +2906,7 @@
     "485": {
         "traditional": "聯",
         "simplified": "联",
-        "definition": "to unite; to join",
+        "definition": "to unite, to join",
         "pinyin": "lián"
     },
     "486": {
@@ -2918,7 +2918,7 @@
     "487": {
         "traditional": "便",
         "simplified": "便",
-        "definition": "ordinary; convenient",
+        "definition": "ordinary, convenient",
         "pinyin": "biàn"
     },
     "488": {
@@ -2930,7 +2930,7 @@
     "489": {
         "traditional": "腦",
         "simplified": "脑",
-        "definition": "brain; mind",
+        "definition": "brain, mind",
         "pinyin": "nǎo"
     },
     "490": {
@@ -2948,25 +2948,25 @@
     "492": {
         "traditional": "精",
         "simplified": "精",
-        "definition": "essence; vitality",
+        "definition": "essence, vitality",
         "pinyin": "jīng"
     },
     "493": {
         "traditional": "包",
         "simplified": "包",
-        "definition": "to wrap; bag",
+        "definition": "to wrap, bag",
         "pinyin": "bāo"
     },
     "494": {
         "traditional": "轉",
         "simplified": "转",
-        "definition": "to revolve; to turn",
+        "definition": "to revolve, to turn",
         "pinyin": "zhuǎn"
     },
     "495": {
         "traditional": "卻",
         "simplified": "却",
-        "definition": "but; however",
+        "definition": "but, however",
         "pinyin": "què"
     },
     "496": {
@@ -2978,19 +2978,19 @@
     "497": {
         "traditional": "院",
         "simplified": "院",
-        "definition": "courtyard; institution",
+        "definition": "courtyard, institution",
         "pinyin": "yuàn"
     },
     "498": {
         "traditional": "務",
         "simplified": "务",
-        "definition": "affair; business",
+        "definition": "affair, business",
         "pinyin": "wù"
     },
     "499": {
         "traditional": "基",
         "simplified": "基",
-        "definition": "base; foundation",
+        "definition": "base, foundation",
         "pinyin": "jī"
     },
     "500": {
@@ -3002,7 +3002,7 @@
     "501": {
         "traditional": "另",
         "simplified": "另",
-        "definition": "other; another",
+        "definition": "other, another",
         "pinyin": "lìng"
     },
     "502": {
@@ -3032,7 +3032,7 @@
     "506": {
         "traditional": "況",
         "simplified": "况",
-        "definition": "situation; moreover",
+        "definition": "situation, moreover",
         "pinyin": "kuàng"
     },
     "507": {
@@ -3062,7 +3062,7 @@
     "511": {
         "traditional": "言",
         "simplified": "言",
-        "definition": "words; speech",
+        "definition": "words, speech",
         "pinyin": "yán"
     },
     "512": {
@@ -3092,25 +3092,25 @@
     "516": {
         "traditional": "傳",
         "simplified": "传",
-        "definition": "to transfer; send",
+        "definition": "to transfer, send",
         "pinyin": "chuán"
     },
     "517": {
         "traditional": "復",
         "simplified": "复",
-        "definition": "to return; to repeat",
+        "definition": "to return, to repeat",
         "pinyin": "fù"
     },
     "518": {
         "traditional": "量",
         "simplified": "量",
-        "definition": "quantity; amount",
+        "definition": "quantity, amount",
         "pinyin": "liàng"
     },
     "519": {
         "traditional": "首",
         "simplified": "首",
-        "definition": "head; chief",
+        "definition": "head, chief",
         "pinyin": "shǒu"
     },
     "520": {
@@ -3128,25 +3128,25 @@
     "522": {
         "traditional": "術",
         "simplified": "术",
-        "definition": "method; technique",
+        "definition": "method, technique",
         "pinyin": "shù"
     },
     "523": {
         "traditional": "局",
         "simplified": "局",
-        "definition": "office; narrow",
+        "definition": "office, narrow",
         "pinyin": "jú"
     },
     "524": {
         "traditional": "客",
         "simplified": "客",
-        "definition": "customer; guest",
+        "definition": "customer, guest",
         "pinyin": "kè"
     },
     "525": {
         "traditional": "假",
         "simplified": "假",
-        "definition": "fake; to borrow",
+        "definition": "fake, to borrow",
         "pinyin": "jiǎ"
     },
     "526": {
@@ -3170,7 +3170,7 @@
     "529": {
         "traditional": "據",
         "simplified": "据",
-        "definition": "according to; to seize",
+        "definition": "according to, to seize",
         "pinyin": "jù"
     },
     "530": {
@@ -3194,7 +3194,7 @@
     "533": {
         "traditional": "惡",
         "simplified": "恶",
-        "definition": "evil; ugly",
+        "definition": "evil, ugly",
         "pinyin": "è"
     },
     "534": {
@@ -3212,7 +3212,7 @@
     "536": {
         "traditional": "游",
         "simplified": "游",
-        "definition": "to swim; to travel",
+        "definition": "to swim, to travel",
         "pinyin": "yóu"
     },
     "537": {
@@ -3224,13 +3224,13 @@
     "538": {
         "traditional": "令",
         "simplified": "令",
-        "definition": "command; to order",
+        "definition": "command, to order",
         "pinyin": "lìng"
     },
     "539": {
         "traditional": "隨",
         "simplified": "随",
-        "definition": "to follow; comply",
+        "definition": "to follow, comply",
         "pinyin": "suí"
     },
     "540": {
@@ -3248,7 +3248,7 @@
     "542": {
         "traditional": "式",
         "simplified": "式",
-        "definition": "type; style",
+        "definition": "type, style",
         "pinyin": "shì"
     },
     "543": {
@@ -3296,7 +3296,7 @@
     "550": {
         "traditional": "麻",
         "simplified": "麻",
-        "definition": "hemp; rough",
+        "definition": "hemp, rough",
         "pinyin": "má"
     },
     "551": {
@@ -3320,7 +3320,7 @@
     "554": {
         "traditional": "治",
         "simplified": "治",
-        "definition": "to govern; solve",
+        "definition": "to govern, solve",
         "pinyin": "zhì"
     },
     "555": {
@@ -3332,31 +3332,31 @@
     "556": {
         "traditional": "答",
         "simplified": "答",
-        "definition": "to reply; answer",
+        "definition": "to reply, answer",
         "pinyin": "dá"
     },
     "557": {
         "traditional": "倒",
         "simplified": "倒",
-        "definition": "to invert; actually",
+        "definition": "to invert, actually",
         "pinyin": "dǎo"
     },
     "558": {
         "traditional": "劃",
         "simplified": "划",
-        "definition": "to plan; row",
+        "definition": "to plan, row",
         "pinyin": "huà"
     },
     "559": {
         "traditional": "控",
         "simplified": "控",
-        "definition": "to accuse; manage",
+        "definition": "to accuse, manage",
         "pinyin": "kòng"
     },
     "560": {
         "traditional": "味",
         "simplified": "味",
-        "definition": "taste; smell",
+        "definition": "taste, smell",
         "pinyin": "wèi"
     },
     "561": {
@@ -3380,13 +3380,13 @@
     "564": {
         "traditional": "乎",
         "simplified": "乎",
-        "definition": "in; at; from",
+        "definition": "in, at, from",
         "pinyin": "hū"
     },
     "565": {
         "traditional": "錄",
         "simplified": "录",
-        "definition": "diary; record",
+        "definition": "diary, record",
         "pinyin": "lù"
     },
     "566": {
@@ -3398,25 +3398,25 @@
     "567": {
         "traditional": "超",
         "simplified": "超",
-        "definition": "to exceed; super-",
+        "definition": "to exceed, super-",
         "pinyin": "chāo"
     },
     "568": {
         "traditional": "拍",
         "simplified": "拍",
-        "definition": "to clap; to take (photo)",
+        "definition": "to clap, to take (photo)",
         "pinyin": "pāi"
     },
     "569": {
         "traditional": "輕",
         "simplified": "轻",
-        "definition": "light; gentle",
+        "definition": "light, gentle",
         "pinyin": "qīng"
     },
     "570": {
         "traditional": "連",
         "simplified": "连",
-        "definition": "to link; even…",
+        "definition": "to link, even…",
         "pinyin": "lián"
     },
     "571": {
@@ -3428,19 +3428,19 @@
     "572": {
         "traditional": "組",
         "simplified": "组",
-        "definition": "to organize; group",
+        "definition": "to organize, group",
         "pinyin": "zǔ"
     },
     "573": {
         "traditional": "滿",
         "simplified": "满",
-        "definition": "to fill; satisfied",
+        "definition": "to fill, satisfied",
         "pinyin": "mǎn"
     },
     "574": {
         "traditional": "造",
         "simplified": "造",
-        "definition": "to build; to make",
+        "definition": "to build, to make",
         "pinyin": "zào"
     },
     "575": {
@@ -3452,19 +3452,19 @@
     "576": {
         "traditional": "靜",
         "simplified": "静",
-        "definition": "still; calm",
+        "definition": "still, calm",
         "pinyin": "jìng"
     },
     "577": {
         "traditional": "故",
         "simplified": "故",
-        "definition": "old; happening",
+        "definition": "old, happening",
         "pinyin": "gù"
     },
     "578": {
         "traditional": "吸",
         "simplified": "吸",
-        "definition": "to breathe; inhale",
+        "definition": "to breathe, inhale",
         "pinyin": "xī"
     },
     "579": {
@@ -3476,7 +3476,7 @@
     "580": {
         "traditional": "集",
         "simplified": "集",
-        "definition": "to gather; to collect",
+        "definition": "to gather, to collect",
         "pinyin": "jí"
     },
     "581": {
@@ -3488,13 +3488,13 @@
     "582": {
         "traditional": "講",
         "simplified": "讲",
-        "definition": "to speak; lecture",
+        "definition": "to speak, lecture",
         "pinyin": "jiǎng"
     },
     "583": {
         "traditional": "塊",
         "simplified": "块",
-        "definition": "colloq. money; lump",
+        "definition": "colloq. money, lump",
         "pinyin": "kuài"
     },
     "584": {
@@ -3506,7 +3506,7 @@
     "585": {
         "traditional": "類",
         "simplified": "类",
-        "definition": "kind; category",
+        "definition": "kind, category",
         "pinyin": "lèi"
     },
     "586": {
@@ -3518,19 +3518,19 @@
     "587": {
         "traditional": "戲",
         "simplified": "戏",
-        "definition": "drama; trick",
+        "definition": "drama, trick",
         "pinyin": "xì"
     },
     "588": {
         "traditional": "曾",
         "simplified": "曾",
-        "definition": "once; already",
+        "definition": "once, already",
         "pinyin": "céng"
     },
     "589": {
         "traditional": "容",
         "simplified": "容",
-        "definition": "to contain; appearance",
+        "definition": "to contain, appearance",
         "pinyin": "róng"
     },
     "590": {
@@ -3554,13 +3554,13 @@
     "593": {
         "traditional": "未",
         "simplified": "未",
-        "definition": "not; have not",
+        "definition": "not, have not",
         "pinyin": "wèi"
     },
     "594": {
         "traditional": "束",
         "simplified": "束",
-        "definition": "to bind; bundle",
+        "definition": "to bind, bundle",
         "pinyin": "shù"
     },
     "595": {
@@ -3578,19 +3578,19 @@
     "597": {
         "traditional": "班",
         "simplified": "班",
-        "definition": "team; class",
+        "definition": "team, class",
         "pinyin": "bān"
     },
     "598": {
         "traditional": "終",
         "simplified": "终",
-        "definition": "end; finish",
+        "definition": "end, finish",
         "pinyin": "zhōng"
     },
     "599": {
         "traditional": "差",
         "simplified": "差",
-        "definition": "inferior; bad",
+        "definition": "inferior, bad",
         "pinyin": "chà"
     },
     "600": {
@@ -3620,7 +3620,7 @@
     "604": {
         "traditional": "店",
         "simplified": "店",
-        "definition": "inn; shop",
+        "definition": "inn, shop",
         "pinyin": "diàn"
     },
     "605": {
@@ -3638,7 +3638,7 @@
     "607": {
         "traditional": "顯",
         "simplified": "显",
-        "definition": "prominent; to show",
+        "definition": "prominent, to show",
         "pinyin": "xiǎn"
     },
     "608": {
@@ -3650,7 +3650,7 @@
     "609": {
         "traditional": "圖",
         "simplified": "图",
-        "definition": "diagram; map",
+        "definition": "diagram, map",
         "pinyin": "tú"
     },
     "610": {
@@ -3662,13 +3662,13 @@
     "611": {
         "traditional": "語",
         "simplified": "语",
-        "definition": "language; speech",
+        "definition": "language, speech",
         "pinyin": "yǔ"
     },
     "612": {
         "traditional": "付",
         "simplified": "付",
-        "definition": "to pay; hand over",
+        "definition": "to pay, hand over",
         "pinyin": "fù"
     },
     "613": {
@@ -3680,13 +3680,13 @@
     "614": {
         "traditional": "排",
         "simplified": "排",
-        "definition": "a row; to arrange",
+        "definition": "a row, to arrange",
         "pinyin": "pái"
     },
     "615": {
         "traditional": "楚",
         "simplified": "楚",
-        "definition": "distinct; clear",
+        "definition": "distinct, clear",
         "pinyin": "chǔ"
     },
     "616": {
@@ -3716,7 +3716,7 @@
     "620": {
         "traditional": "破",
         "simplified": "破",
-        "definition": "broken; to destroy",
+        "definition": "broken, to destroy",
         "pinyin": "pò"
     },
     "621": {
@@ -3728,13 +3728,13 @@
     "622": {
         "traditional": "市",
         "simplified": "市",
-        "definition": "market; city",
+        "definition": "market, city",
         "pinyin": "shì"
     },
     "623": {
         "traditional": "城",
         "simplified": "城",
-        "definition": "city; town",
+        "definition": "city, town",
         "pinyin": "chéng"
     },
     "624": {
@@ -3746,19 +3746,19 @@
     "625": {
         "traditional": "權",
         "simplified": "权",
-        "definition": "authority; power",
+        "definition": "authority, power",
         "pinyin": "quán"
     },
     "626": {
         "traditional": "某",
         "simplified": "某",
-        "definition": "some; a certain",
+        "definition": "some, a certain",
         "pinyin": "mǒu"
     },
     "627": {
         "traditional": "激",
         "simplified": "激",
-        "definition": "to excite; fierce",
+        "definition": "to excite, fierce",
         "pinyin": "jī"
     },
     "628": {
@@ -3770,19 +3770,19 @@
     "629": {
         "traditional": "程",
         "simplified": "程",
-        "definition": "rule; order",
+        "definition": "rule, order",
         "pinyin": "chéng"
     },
     "630": {
         "traditional": "伊",
         "simplified": "伊",
-        "definition": "he; she",
+        "definition": "he, she",
         "pinyin": "yī"
     },
     "631": {
         "traditional": "討",
         "simplified": "讨",
-        "definition": "to invite; to discuss",
+        "definition": "to invite, to discuss",
         "pinyin": "tǎo"
     },
     "632": {
@@ -3800,25 +3800,25 @@
     "634": {
         "traditional": "閉",
         "simplified": "闭",
-        "definition": "to close; to shut",
+        "definition": "to close, to shut",
         "pinyin": "bì"
     },
     "635": {
         "traditional": "庭",
         "simplified": "庭",
-        "definition": "main hall; courtyard",
+        "definition": "main hall, courtyard",
         "pinyin": "tíng"
     },
     "636": {
         "traditional": "落",
         "simplified": "落",
-        "definition": "to set; to decline",
+        "definition": "to set, to decline",
         "pinyin": "luò"
     },
     "637": {
         "traditional": "飯",
         "simplified": "饭",
-        "definition": "food; meal",
+        "definition": "food, meal",
         "pinyin": "fàn"
     },
     "638": {
@@ -3836,7 +3836,7 @@
     "640": {
         "traditional": "及",
         "simplified": "及",
-        "definition": "to reach; up to",
+        "definition": "to reach, up to",
         "pinyin": "jí"
     },
     "641": {
@@ -3860,7 +3860,7 @@
     "644": {
         "traditional": "級",
         "simplified": "级",
-        "definition": "level; rank",
+        "definition": "level, rank",
         "pinyin": "jí"
     },
     "645": {
@@ -3878,7 +3878,7 @@
     "647": {
         "traditional": "刻",
         "simplified": "刻",
-        "definition": "quarter (hour); to cut",
+        "definition": "quarter (hour), to cut",
         "pinyin": "kè"
     },
     "648": {
@@ -3920,7 +3920,7 @@
     "654": {
         "traditional": "標",
         "simplified": "标",
-        "definition": "sign; prize",
+        "definition": "sign, prize",
         "pinyin": "biāo"
     },
     "655": {
@@ -3932,7 +3932,7 @@
     "656": {
         "traditional": "各",
         "simplified": "各",
-        "definition": "each; every",
+        "definition": "each, every",
         "pinyin": "gè"
     },
     "657": {
@@ -3956,7 +3956,7 @@
     "660": {
         "traditional": "功",
         "simplified": "功",
-        "definition": "result; achievement",
+        "definition": "result, achievement",
         "pinyin": "gōng"
     },
     "661": {
@@ -3998,7 +3998,7 @@
     "667": {
         "traditional": "引",
         "simplified": "引",
-        "definition": "to pull; to guide",
+        "definition": "to pull, to guide",
         "pinyin": "yǐn"
     },
     "668": {
@@ -4046,19 +4046,19 @@
     "675": {
         "traditional": "樓",
         "simplified": "楼",
-        "definition": "building; floor",
+        "definition": "building, floor",
         "pinyin": "lóu"
     },
     "676": {
         "traditional": "皮",
         "simplified": "皮",
-        "definition": "leather; skin",
+        "definition": "leather, skin",
         "pinyin": "pí"
     },
     "677": {
         "traditional": "存",
         "simplified": "存",
-        "definition": "to exist; to deposit",
+        "definition": "to exist, to deposit",
         "pinyin": "cún"
     },
     "678": {
@@ -4070,19 +4070,19 @@
     "679": {
         "traditional": "娘",
         "simplified": "娘",
-        "definition": "mother; young lady",
+        "definition": "mother, young lady",
         "pinyin": "niáng"
     },
     "680": {
         "traditional": "頓",
         "simplified": "顿",
-        "definition": "to pause; mw. for meals",
+        "definition": "to pause, mw. for meals",
         "pinyin": "dùn"
     },
     "681": {
         "traditional": "斷",
         "simplified": "断",
-        "definition": "to break; defiitely",
+        "definition": "to break, defiitely",
         "pinyin": "duàn"
     },
     "682": {
@@ -4094,13 +4094,13 @@
     "683": {
         "traditional": "松",
         "simplified": "松",
-        "definition": "loose; to relax",
+        "definition": "loose, to relax",
         "pinyin": "sōng"
     },
     "684": {
         "traditional": "博",
         "simplified": "博",
-        "definition": "rich; extensive",
+        "definition": "rich, extensive",
         "pinyin": "bó"
     },
     "685": {
@@ -4124,13 +4124,13 @@
     "688": {
         "traditional": "痛",
         "simplified": "痛",
-        "definition": "ache; pain",
+        "definition": "ache, pain",
         "pinyin": "tòng"
     },
     "689": {
         "traditional": "狂",
         "simplified": "狂",
-        "definition": "mad; wild",
+        "definition": "mad, wild",
         "pinyin": "kuáng"
     },
     "690": {
@@ -4142,7 +4142,7 @@
     "691": {
         "traditional": "碼",
         "simplified": "码",
-        "definition": "number; code",
+        "definition": "number, code",
         "pinyin": "mǎ"
     },
     "692": {
@@ -4160,7 +4160,7 @@
     "694": {
         "traditional": "歷",
         "simplified": "历",
-        "definition": "calendar; to experience",
+        "definition": "calendar, to experience",
         "pinyin": "lì"
     },
     "695": {
@@ -4184,13 +4184,13 @@
     "698": {
         "traditional": "普",
         "simplified": "普",
-        "definition": "general; popular",
+        "definition": "general, popular",
         "pinyin": "pǔ"
     },
     "699": {
         "traditional": "價",
         "simplified": "价",
-        "definition": "price; value",
+        "definition": "price, value",
         "pinyin": "jià"
     },
     "700": {
@@ -4202,13 +4202,13 @@
     "701": {
         "traditional": "角",
         "simplified": "角",
-        "definition": "angle; 0.1元",
+        "definition": "angle, 0.1元",
         "pinyin": "jiǎo"
     },
     "702": {
         "traditional": "懷",
         "simplified": "怀",
-        "definition": "bosom; heart",
+        "definition": "bosom, heart",
         "pinyin": "huái"
     },
     "703": {
@@ -4238,7 +4238,7 @@
     "707": {
         "traditional": "索",
         "simplified": "索",
-        "definition": "to search; to ask",
+        "definition": "to search, to ask",
         "pinyin": "suǒ"
     },
     "708": {
@@ -4256,13 +4256,13 @@
     "710": {
         "traditional": "祝",
         "simplified": "祝",
-        "definition": "to wish; to pray",
+        "definition": "to wish, to pray",
         "pinyin": "zhù"
     },
     "711": {
         "traditional": "料",
         "simplified": "料",
-        "definition": "material; stuff",
+        "definition": "material, stuff",
         "pinyin": "liào"
     },
     "712": {
@@ -4274,25 +4274,25 @@
     "713": {
         "traditional": "靈",
         "simplified": "灵",
-        "definition": "quick; effective",
+        "definition": "quick, effective",
         "pinyin": "líng"
     },
     "714": {
         "traditional": "獄",
         "simplified": "狱",
-        "definition": "prison; lawsuit",
+        "definition": "prison, lawsuit",
         "pinyin": "yù "
     },
     "715": {
         "traditional": "劇",
         "simplified": "剧",
-        "definition": "drama; play",
+        "definition": "drama, play",
         "pinyin": "jù"
     },
     "716": {
         "traditional": "亂",
         "simplified": "乱",
-        "definition": "messy; disorder",
+        "definition": "messy, disorder",
         "pinyin": "luàn"
     },
     "717": {
@@ -4304,19 +4304,19 @@
     "718": {
         "traditional": "板",
         "simplified": "板",
-        "definition": "board; plank",
+        "definition": "board, plank",
         "pinyin": "bǎn"
     },
     "719": {
         "traditional": "承",
         "simplified": "承",
-        "definition": "to bear; to carry",
+        "definition": "to bear, to carry",
         "pinyin": "chéng"
     },
     "720": {
         "traditional": "則",
         "simplified": "则",
-        "definition": "in contrast; norm",
+        "definition": "in contrast, norm",
         "pinyin": "zé"
     },
     "721": {
@@ -4328,13 +4328,13 @@
     "722": {
         "traditional": "深",
         "simplified": "深",
-        "definition": "deep; profound",
+        "definition": "deep, profound",
         "pinyin": "shēn"
     },
     "723": {
         "traditional": "產",
         "simplified": "产",
-        "definition": "give birth; to produce",
+        "definition": "give birth, to produce",
         "pinyin": "chǎn"
     },
     "724": {
@@ -4370,7 +4370,7 @@
     "729": {
         "traditional": "納",
         "simplified": "纳",
-        "definition": "to receive; to bring in",
+        "definition": "to receive, to bring in",
         "pinyin": "nà"
     },
     "730": {
@@ -4382,25 +4382,25 @@
     "731": {
         "traditional": "具",
         "simplified": "具",
-        "definition": "tool; ability",
+        "definition": "tool, ability",
         "pinyin": "jù"
     },
     "732": {
         "traditional": "退",
         "simplified": "退",
-        "definition": "to retreat; to decline",
+        "definition": "to retreat, to decline",
         "pinyin": "tuì"
     },
     "733": {
         "traditional": "福",
         "simplified": "福",
-        "definition": "luck; fortune",
+        "definition": "luck, fortune",
         "pinyin": "fú"
     },
     "734": {
         "traditional": "習",
         "simplified": "习",
-        "definition": "to study; habit",
+        "definition": "to study, habit",
         "pinyin": "xí"
     },
     "735": {
@@ -4412,31 +4412,31 @@
     "736": {
         "traditional": "奶",
         "simplified": "奶",
-        "definition": "milk; breast",
+        "definition": "milk, breast",
         "pinyin": "nǎi"
     },
     "737": {
         "traditional": "遇",
         "simplified": "遇",
-        "definition": "to meet; to encounter",
+        "definition": "to meet, to encounter",
         "pinyin": "yù"
     },
     "738": {
         "traditional": "職",
         "simplified": "职",
-        "definition": "office; duty",
+        "definition": "office, duty",
         "pinyin": "zhí"
     },
     "739": {
         "traditional": "架",
         "simplified": "架",
-        "definition": "to support; framework",
+        "definition": "to support, framework",
         "pinyin": "jià"
     },
     "740": {
         "traditional": "即",
         "simplified": "即",
-        "definition": "namely; at once",
+        "definition": "namely, at once",
         "pinyin": "jí"
     },
     "741": {
@@ -4484,7 +4484,7 @@
     "748": {
         "traditional": "僅",
         "simplified": "仅",
-        "definition": "barely; merely",
+        "definition": "barely, merely",
         "pinyin": "jǐn"
     },
     "749": {
@@ -4508,19 +4508,19 @@
     "752": {
         "traditional": "資",
         "simplified": "资",
-        "definition": "property; wealth",
+        "definition": "property, wealth",
         "pinyin": "zī "
     },
     "753": {
         "traditional": "畫",
         "simplified": "画",
-        "definition": "to draw; picture",
+        "definition": "to draw, picture",
         "pinyin": "huà"
     },
     "754": {
         "traditional": "蹤",
         "simplified": "踪",
-        "definition": "footprints; traces",
+        "definition": "footprints, traces",
         "pinyin": "zōng "
     },
     "755": {
@@ -4544,13 +4544,13 @@
     "758": {
         "traditional": "藏",
         "simplified": "藏",
-        "definition": "to conceal; to store",
+        "definition": "to conceal, to store",
         "pinyin": "cáng"
     },
     "759": {
         "traditional": "屁",
         "simplified": "屁",
-        "definition": "fart; nonsense",
+        "definition": "fart, nonsense",
         "pinyin": "pì"
     },
     "760": {
@@ -4574,13 +4574,13 @@
     "763": {
         "traditional": "聞",
         "simplified": "闻",
-        "definition": "to hear; news",
+        "definition": "to hear, news",
         "pinyin": "wén"
     },
     "764": {
         "traditional": "共",
         "simplified": "共",
-        "definition": "common; general",
+        "definition": "common, general",
         "pinyin": "gòng"
     },
     "765": {
@@ -4628,13 +4628,13 @@
     "772": {
         "traditional": "魔",
         "simplified": "魔",
-        "definition": "devil; magic",
+        "definition": "devil, magic",
         "pinyin": "mó"
     },
     "773": {
         "traditional": "急",
         "simplified": "急",
-        "definition": "urgent; worried",
+        "definition": "urgent, worried",
         "pinyin": "jí"
     },
     "774": {
@@ -4658,19 +4658,19 @@
     "777": {
         "traditional": "苦",
         "simplified": "苦",
-        "definition": "bitter; pain",
+        "definition": "bitter, pain",
         "pinyin": "kǔ"
     },
     "778": {
         "traditional": "念",
         "simplified": "念",
-        "definition": "to miss (sb); thought",
+        "definition": "to miss (sb), thought",
         "pinyin": "niàn"
     },
     "779": {
         "traditional": "適",
         "simplified": "适",
-        "definition": "to fit; suitable",
+        "definition": "to fit, suitable",
         "pinyin": "shì"
     },
     "780": {
@@ -4682,7 +4682,7 @@
     "781": {
         "traditional": "沖",
         "simplified": "冲",
-        "definition": "to clash; to rinse",
+        "definition": "to clash, to rinse",
         "pinyin": "chōng"
     },
     "782": {
@@ -4700,13 +4700,13 @@
     "784": {
         "traditional": "型",
         "simplified": "型",
-        "definition": "model; type",
+        "definition": "model, type",
         "pinyin": "xíng"
     },
     "785": {
         "traditional": "麥",
         "simplified": "麦",
-        "definition": "wheat; oats",
+        "definition": "wheat, oats",
         "pinyin": "mài"
     },
     "786": {
@@ -4742,13 +4742,13 @@
     "791": {
         "traditional": "謀",
         "simplified": "谋",
-        "definition": "plan; scheme",
+        "definition": "plan, scheme",
         "pinyin": "móu "
     },
     "792": {
         "traditional": "套",
         "simplified": "套",
-        "definition": "cover; mw. for sets",
+        "definition": "cover, mw. for sets",
         "pinyin": "tào"
     },
     "793": {
@@ -4760,25 +4760,25 @@
     "794": {
         "traditional": "眾",
         "simplified": "众",
-        "definition": "many; crowd",
+        "definition": "many, crowd",
         "pinyin": "zhòng"
     },
     "795": {
         "traditional": "預",
         "simplified": "预",
-        "definition": "to advance; prepare",
+        "definition": "to advance, prepare",
         "pinyin": "yù"
     },
     "796": {
         "traditional": "際",
         "simplified": "际",
-        "definition": "border; between",
+        "definition": "border, between",
         "pinyin": "jì"
     },
     "797": {
         "traditional": "咱",
         "simplified": "咱",
-        "definition": "we; us",
+        "definition": "we, us",
         "pinyin": "zá/zán "
     },
     "798": {
@@ -4802,7 +4802,7 @@
     "801": {
         "traditional": "養",
         "simplified": "养",
-        "definition": "to raise; to bring up",
+        "definition": "to raise, to bring up",
         "pinyin": "yǎng"
     },
     "802": {
@@ -4850,7 +4850,7 @@
     "809": {
         "traditional": "志",
         "simplified": "志",
-        "definition": "sign; ambition",
+        "definition": "sign, ambition",
         "pinyin": "zhì"
     },
     "810": {
@@ -4862,7 +4862,7 @@
     "811": {
         "traditional": "居",
         "simplified": "居",
-        "definition": "to reside; residence",
+        "definition": "to reside, residence",
         "pinyin": "jū"
     },
     "812": {
@@ -4904,7 +4904,7 @@
     "818": {
         "traditional": "突",
         "simplified": "突",
-        "definition": "to dash; sudden",
+        "definition": "to dash, sudden",
         "pinyin": "tū"
     },
     "819": {
@@ -4916,13 +4916,13 @@
     "820": {
         "traditional": "館",
         "simplified": "馆",
-        "definition": "building; shop",
+        "definition": "building, shop",
         "pinyin": "guǎn"
     },
     "821": {
         "traditional": "規",
         "simplified": "规",
-        "definition": "a rule; compass",
+        "definition": "a rule, compass",
         "pinyin": "guī"
     },
     "822": {
@@ -4940,19 +4940,19 @@
     "824": {
         "traditional": "肉",
         "simplified": "肉",
-        "definition": "flesh; meat",
+        "definition": "flesh, meat",
         "pinyin": "ròu"
     },
     "825": {
         "traditional": "形",
         "simplified": "形",
-        "definition": "form; appear",
+        "definition": "form, appear",
         "pinyin": "xíng"
     },
     "826": {
         "traditional": "凶",
         "simplified": "凶",
-        "definition": "culprit; scary",
+        "definition": "culprit, scary",
         "pinyin": "xiōng "
     },
     "827": {
@@ -4970,7 +4970,7 @@
     "829": {
         "traditional": "紀",
         "simplified": "纪",
-        "definition": "order; to discipline",
+        "definition": "order, to discipline",
         "pinyin": "jì"
     },
     "830": {
@@ -4988,7 +4988,7 @@
     "832": {
         "traditional": "順",
         "simplified": "顺",
-        "definition": "to obey; along",
+        "definition": "to obey, along",
         "pinyin": "shùn"
     },
     "833": {
@@ -5000,7 +5000,7 @@
     "834": {
         "traditional": "按",
         "simplified": "按",
-        "definition": "to press; to restrain",
+        "definition": "to press, to restrain",
         "pinyin": "àn"
     },
     "835": {
@@ -5030,13 +5030,13 @@
     "839": {
         "traditional": "免",
         "simplified": "免",
-        "definition": "to exempt; to avoid",
+        "definition": "to exempt, to avoid",
         "pinyin": "miǎn"
     },
     "840": {
         "traditional": "喔",
         "simplified": "喔",
-        "definition": "I see; oh",
+        "definition": "I see, oh",
         "pinyin": "ō"
     },
     "841": {
@@ -5054,7 +5054,7 @@
     "843": {
         "traditional": "喬",
         "simplified": "乔",
-        "definition": "tall; lofty",
+        "definition": "tall, lofty",
         "pinyin": "qiáo "
     },
     "844": {
@@ -5072,7 +5072,7 @@
     "846": {
         "traditional": "印",
         "simplified": "印",
-        "definition": "to print; image",
+        "definition": "to print, image",
         "pinyin": "yìn"
     },
     "847": {
@@ -5096,7 +5096,7 @@
     "850": {
         "traditional": "嚴",
         "simplified": "严",
-        "definition": "strict; tight",
+        "definition": "strict, tight",
         "pinyin": "yán"
     },
     "851": {
@@ -5126,13 +5126,13 @@
     "855": {
         "traditional": "勝",
         "simplified": "胜",
-        "definition": "victory; better",
+        "definition": "victory, better",
         "pinyin": "shèng"
     },
     "856": {
         "traditional": "毛",
         "simplified": "毛",
-        "definition": "hair; coarse",
+        "definition": "hair, coarse",
         "pinyin": "máo"
     },
     "857": {
@@ -5150,25 +5150,25 @@
     "859": {
         "traditional": "究",
         "simplified": "究",
-        "definition": "after all; to investigate",
+        "definition": "after all, to investigate",
         "pinyin": "jiū"
     },
     "860": {
         "traditional": "評",
         "simplified": "评",
-        "definition": "to comment; criticize",
+        "definition": "to comment, criticize",
         "pinyin": "píng"
     },
     "861": {
         "traditional": "屋",
         "simplified": "屋",
-        "definition": "house; room",
+        "definition": "house, room",
         "pinyin": "wū"
     },
     "862": {
         "traditional": "雙",
         "simplified": "双",
-        "definition": "pair; double",
+        "definition": "pair, double",
         "pinyin": "shuāng"
     },
     "863": {
@@ -5204,7 +5204,7 @@
     "868": {
         "traditional": "速",
         "simplified": "速",
-        "definition": "fast; rapid",
+        "definition": "fast, rapid",
         "pinyin": "sù"
     },
     "869": {
@@ -5228,7 +5228,7 @@
     "872": {
         "traditional": "獲",
         "simplified": "获",
-        "definition": "to capture; to reap",
+        "definition": "to capture, to reap",
         "pinyin": "huò"
     },
     "873": {
@@ -5240,31 +5240,31 @@
     "874": {
         "traditional": "致",
         "simplified": "致",
-        "definition": "fine; delicate",
+        "definition": "fine, delicate",
         "pinyin": "zhì"
     },
     "875": {
         "traditional": "細",
         "simplified": "细",
-        "definition": "thin; fine",
+        "definition": "thin, fine",
         "pinyin": "xì"
     },
     "876": {
         "traditional": "勒",
         "simplified": "勒",
-        "definition": "to rein in; to compel",
+        "definition": "to rein in, to compel",
         "pinyin": "lè"
     },
     "877": {
         "traditional": "稱",
         "simplified": "称",
-        "definition": "to weigh; name",
+        "definition": "to weigh, name",
         "pinyin": "chēng"
     },
     "878": {
         "traditional": "塔",
         "simplified": "塔",
-        "definition": "pagoda; tower",
+        "definition": "pagoda, tower",
         "pinyin": "tǎ"
     },
     "879": {
@@ -5306,7 +5306,7 @@
     "885": {
         "traditional": "狀",
         "simplified": "状",
-        "definition": "suit; strong",
+        "definition": "suit, strong",
         "pinyin": "zhuàng"
     },
     "886": {
@@ -5330,7 +5330,7 @@
     "889": {
         "traditional": "遺",
         "simplified": "遗",
-        "definition": "to lose; to omit",
+        "definition": "to lose, to omit",
         "pinyin": "yí"
     },
     "890": {
@@ -5342,19 +5342,19 @@
     "891": {
         "traditional": "響",
         "simplified": "响",
-        "definition": "sound; noise",
+        "definition": "sound, noise",
         "pinyin": "xiǎng"
     },
     "892": {
         "traditional": "網",
         "simplified": "网",
-        "definition": "net; network",
+        "definition": "net, network",
         "pinyin": "wǎng"
     },
     "893": {
         "traditional": "箱",
         "simplified": "箱",
-        "definition": "box; chest",
+        "definition": "box, chest",
         "pinyin": "xiāng"
     },
     "894": {
@@ -5372,19 +5372,19 @@
     "896": {
         "traditional": "簽",
         "simplified": "签",
-        "definition": "to sign; label",
+        "definition": "to sign, label",
         "pinyin": "qiān"
     },
     "897": {
         "traditional": "牌",
         "simplified": "牌",
-        "definition": "card; tablet",
+        "definition": "card, tablet",
         "pinyin": "pái"
     },
     "898": {
         "traditional": "戶",
         "simplified": "户",
-        "definition": "door; household",
+        "definition": "door, household",
         "pinyin": "hù"
     },
     "899": {
@@ -5396,7 +5396,7 @@
     "900": {
         "traditional": "質",
         "simplified": "质",
-        "definition": "character; quality",
+        "definition": "character, quality",
         "pinyin": "zhì"
     },
     "901": {
@@ -5420,7 +5420,7 @@
     "904": {
         "traditional": "胡",
         "simplified": "胡",
-        "definition": "beard; mustache",
+        "definition": "beard, mustache",
         "pinyin": "hú"
     },
     "905": {
@@ -5432,7 +5432,7 @@
     "906": {
         "traditional": "堂",
         "simplified": "堂",
-        "definition": "hall; mw. for furniture sets",
+        "definition": "hall, mw. for furniture sets",
         "pinyin": "táng"
     },
     "907": {
@@ -5450,7 +5450,7 @@
     "909": {
         "traditional": "露",
         "simplified": "露",
-        "definition": "dew; to reveal",
+        "definition": "dew, to reveal",
         "pinyin": "lù"
     },
     "910": {
@@ -5462,7 +5462,7 @@
     "911": {
         "traditional": "娜",
         "simplified": "娜",
-        "definition": "elegant; delicate",
+        "definition": "elegant, delicate",
         "pinyin": "nuó"
     },
     "912": {
@@ -5486,7 +5486,7 @@
     "915": {
         "traditional": "睛",
         "simplified": "睛",
-        "definition": "eye; eyeball",
+        "definition": "eye, eyeball",
         "pinyin": "jīng"
     },
     "916": {
@@ -5504,7 +5504,7 @@
     "918": {
         "traditional": "股",
         "simplified": "股",
-        "definition": "portion; thigh",
+        "definition": "portion, thigh",
         "pinyin": "gǔ"
     },
     "919": {
@@ -5516,7 +5516,7 @@
     "920": {
         "traditional": "筆",
         "simplified": "笔",
-        "definition": "pen; brush",
+        "definition": "pen, brush",
         "pinyin": "bǐ"
     },
     "921": {
@@ -5552,25 +5552,25 @@
     "926": {
         "traditional": "鎮",
         "simplified": "镇",
-        "definition": "suppress; small town",
+        "definition": "suppress, small town",
         "pinyin": "zhèn"
     },
     "927": {
         "traditional": "暴",
         "simplified": "暴",
-        "definition": "violent; cruel",
+        "definition": "violent, cruel",
         "pinyin": "bào"
     },
     "928": {
         "traditional": "困",
         "simplified": "困",
-        "definition": "sleepy; difficult",
+        "definition": "sleepy, difficult",
         "pinyin": "kùn"
     },
     "929": {
         "traditional": "項",
         "simplified": "项",
-        "definition": "item; back of neck",
+        "definition": "item, back of neck",
         "pinyin": "xiàng"
     },
     "930": {
@@ -5594,7 +5594,7 @@
     "933": {
         "traditional": "紐",
         "simplified": "纽",
-        "definition": "knot; button; knob",
+        "definition": "knot, button, knob",
         "pinyin": "niǔ "
     },
     "934": {
@@ -5606,7 +5606,7 @@
     "935": {
         "traditional": "配",
         "simplified": "配",
-        "definition": "to join; to match",
+        "definition": "to join, to match",
         "pinyin": "pèi"
     },
     "936": {
@@ -5660,7 +5660,7 @@
     "944": {
         "traditional": "彩",
         "simplified": "彩",
-        "definition": "color; variety",
+        "definition": "color, variety",
         "pinyin": "cǎi"
     },
     "945": {
@@ -5672,7 +5672,7 @@
     "946": {
         "traditional": "屬",
         "simplified": "属",
-        "definition": "category; affiliation",
+        "definition": "category, affiliation",
         "pinyin": "shǔ"
     },
     "947": {
@@ -5690,7 +5690,7 @@
     "949": {
         "traditional": "巧",
         "simplified": "巧",
-        "definition": "opportunely; timely",
+        "definition": "opportunely, timely",
         "pinyin": "qiǎo"
     },
     "950": {
@@ -5714,25 +5714,25 @@
     "953": {
         "traditional": "酷",
         "simplified": "酷",
-        "definition": "ruthless; cool",
+        "definition": "ruthless, cool",
         "pinyin": "kù"
     },
     "954": {
         "traditional": "啡",
         "simplified": "啡",
-        "definition": "coffee; morphine",
+        "definition": "coffee, morphine",
         "pinyin": "fēi "
     },
     "955": {
         "traditional": "課",
         "simplified": "课",
-        "definition": "subject; lesson",
+        "definition": "subject, lesson",
         "pinyin": "kè"
     },
     "956": {
         "traditional": "煙",
         "simplified": "烟",
-        "definition": "cigarette; to smoke",
+        "definition": "cigarette, to smoke",
         "pinyin": "yān"
     },
     "957": {
@@ -5744,7 +5744,7 @@
     "958": {
         "traditional": "封",
         "simplified": "封",
-        "definition": "to grant; title",
+        "definition": "to grant, title",
         "pinyin": "fēng"
     },
     "959": {
@@ -5756,7 +5756,7 @@
     "960": {
         "traditional": "低",
         "simplified": "低",
-        "definition": "low; beneath",
+        "definition": "low, beneath",
         "pinyin": "dī"
     },
     "961": {
@@ -5768,7 +5768,7 @@
     "962": {
         "traditional": "遲",
         "simplified": "迟",
-        "definition": "late; slow",
+        "definition": "late, slow",
         "pinyin": "chí "
     },
     "963": {
@@ -5780,7 +5780,7 @@
     "964": {
         "traditional": "燒",
         "simplified": "烧",
-        "definition": "to cook; roast/bake",
+        "definition": "to cook, roast/bake",
         "pinyin": "shāo"
     },
     "965": {
@@ -5792,7 +5792,7 @@
     "966": {
         "traditional": "暗",
         "simplified": "暗",
-        "definition": "dark; gloomy",
+        "definition": "dark, gloomy",
         "pinyin": "àn"
     },
     "967": {
@@ -5810,25 +5810,25 @@
     "969": {
         "traditional": "曲",
         "simplified": "曲",
-        "definition": "song; tune",
+        "definition": "song, tune",
         "pinyin": "qǔ"
     },
     "970": {
         "traditional": "仍",
         "simplified": "仍",
-        "definition": "still; yet",
+        "definition": "still, yet",
         "pinyin": "réng"
     },
     "971": {
         "traditional": "訓",
         "simplified": "训",
-        "definition": "to tell; to teach",
+        "definition": "to tell, to teach",
         "pinyin": "xùn"
     },
     "972": {
         "traditional": "借",
         "simplified": "借",
-        "definition": "to lend; to borrow",
+        "definition": "to lend, to borrow",
         "pinyin": "jiè"
     },
     "973": {
@@ -5840,7 +5840,7 @@
     "974": {
         "traditional": "善",
         "simplified": "善",
-        "definition": "virtuous; kind",
+        "definition": "virtuous, kind",
         "pinyin": "shàn"
     },
     "975": {
@@ -5852,13 +5852,13 @@
     "976": {
         "traditional": "輪",
         "simplified": "轮",
-        "definition": "wheel; by turns",
+        "definition": "wheel, by turns",
         "pinyin": "lún"
     },
     "977": {
         "traditional": "頂",
         "simplified": "顶",
-        "definition": "apex; to replace",
+        "definition": "apex, to replace",
         "pinyin": "dǐng"
     },
     "978": {
@@ -5870,7 +5870,7 @@
     "979": {
         "traditional": "秀",
         "simplified": "秀",
-        "definition": "handsome; elegant",
+        "definition": "handsome, elegant",
         "pinyin": "xiù"
     },
     "980": {
@@ -5888,13 +5888,13 @@
     "982": {
         "traditional": "腿",
         "simplified": "腿",
-        "definition": "legs; thighs",
+        "definition": "legs, thighs",
         "pinyin": "tuǐ "
     },
     "983": {
         "traditional": "族",
         "simplified": "族",
-        "definition": "race; nationality",
+        "definition": "race, nationality",
         "pinyin": "zú"
     },
     "984": {
@@ -5924,13 +5924,13 @@
     "988": {
         "traditional": "異",
         "simplified": "异",
-        "definition": "different; other",
+        "definition": "different, other",
         "pinyin": "yì"
     },
     "989": {
         "traditional": "誓",
         "simplified": "誓",
-        "definition": "swear; oath",
+        "definition": "swear, oath",
         "pinyin": "shì "
     },
     "990": {
@@ -5942,7 +5942,7 @@
     "991": {
         "traditional": "木",
         "simplified": "木",
-        "definition": "tree; wood",
+        "definition": "tree, wood",
         "pinyin": "mù"
     },
     "992": {
@@ -5954,7 +5954,7 @@
     "993": {
         "traditional": "檔",
         "simplified": "档",
-        "definition": "grade (of goods); shelves",
+        "definition": "grade (of goods), shelves",
         "pinyin": "dǎng"
     },
     "994": {
@@ -5996,7 +5996,7 @@
     "1000": {
         "traditional": "坦",
         "simplified": "坦",
-        "definition": "flat; smooth",
+        "definition": "flat, smooth",
         "pinyin": "tǎn "
     },
     "1001": {
@@ -6014,7 +6014,7 @@
     "1003": {
         "traditional": "短",
         "simplified": "短",
-        "definition": "short; brief",
+        "definition": "short, brief",
         "pinyin": "duǎn"
     },
     "1004": {
@@ -6032,7 +6032,7 @@
     "1006": {
         "traditional": "環",
         "simplified": "环",
-        "definition": "ring; to circle",
+        "definition": "ring, to circle",
         "pinyin": "huán"
     },
     "1007": {
@@ -6044,13 +6044,13 @@
     "1008": {
         "traditional": "移",
         "simplified": "移",
-        "definition": "to move; to alter",
+        "definition": "to move, to alter",
         "pinyin": "yí"
     },
     "1009": {
         "traditional": "編",
         "simplified": "编",
-        "definition": "to organize; to compile",
+        "definition": "to organize, to compile",
         "pinyin": "biān"
     },
     "1010": {
@@ -6062,7 +6062,7 @@
     "1011": {
         "traditional": "刺",
         "simplified": "刺",
-        "definition": "to stab; to pierce",
+        "definition": "to stab, to pierce",
         "pinyin": "cì"
     },
     "1012": {
@@ -6080,7 +6080,7 @@
     "1014": {
         "traditional": "野",
         "simplified": "野",
-        "definition": "field; wild",
+        "definition": "field, wild",
         "pinyin": "yě"
     },
     "1015": {
@@ -6092,7 +6092,7 @@
     "1016": {
         "traditional": "遍",
         "simplified": "遍",
-        "definition": "everywhere; all over",
+        "definition": "everywhere, all over",
         "pinyin": "biàn"
     },
     "1017": {
@@ -6116,19 +6116,19 @@
     "1020": {
         "traditional": "症",
         "simplified": "症",
-        "definition": "disease; illness",
+        "definition": "disease, illness",
         "pinyin": "zhèng"
     },
     "1021": {
         "traditional": "榮",
         "simplified": "荣",
-        "definition": "glory; honor",
+        "definition": "glory, honor",
         "pinyin": "róng"
     },
     "1022": {
         "traditional": "充",
         "simplified": "充",
-        "definition": "to fill; to satisfy",
+        "definition": "to fill, to satisfy",
         "pinyin": "chōng"
     },
     "1023": {
@@ -6140,25 +6140,25 @@
     "1024": {
         "traditional": "嘗",
         "simplified": "尝",
-        "definition": "taste; experience",
+        "definition": "taste, experience",
         "pinyin": "cháng "
     },
     "1025": {
         "traditional": "列",
         "simplified": "列",
-        "definition": "to arrange; list",
+        "definition": "to arrange, list",
         "pinyin": "liè"
     },
     "1026": {
         "traditional": "畢",
         "simplified": "毕",
-        "definition": "the whole of; to finish",
+        "definition": "the whole of, to finish",
         "pinyin": "bì"
     },
     "1027": {
         "traditional": "般",
         "simplified": "般",
-        "definition": "sort; kind",
+        "definition": "sort, kind",
         "pinyin": "bān"
     },
     "1028": {
@@ -6188,25 +6188,25 @@
     "1032": {
         "traditional": "勢",
         "simplified": "势",
-        "definition": "power; potential",
+        "definition": "power, potential",
         "pinyin": "shì"
     },
     "1033": {
         "traditional": "尊",
         "simplified": "尊",
-        "definition": "senior; to honor",
+        "definition": "senior, to honor",
         "pinyin": "zūn"
     },
     "1034": {
         "traditional": "吻",
         "simplified": "吻",
-        "definition": "kiss; lips",
+        "definition": "kiss, lips",
         "pinyin": "wěn "
     },
     "1035": {
         "traditional": "湯",
         "simplified": "汤",
-        "definition": "soup; hot water",
+        "definition": "soup, hot water",
         "pinyin": "tāng"
     },
     "1036": {
@@ -6218,13 +6218,13 @@
     "1037": {
         "traditional": "境",
         "simplified": "境",
-        "definition": "border; place",
+        "definition": "border, place",
         "pinyin": "jìng"
     },
     "1038": {
         "traditional": "蒙",
         "simplified": "蒙",
-        "definition": "cover; ignorant",
+        "definition": "cover, ignorant",
         "pinyin": "méng"
     },
     "1039": {
@@ -6236,13 +6236,13 @@
     "1040": {
         "traditional": "熟",
         "simplified": "熟",
-        "definition": "cooked; ripe; familiar",
+        "definition": "cooked, ripe, familiar",
         "pinyin": "shú"
     },
     "1041": {
         "traditional": "營",
         "simplified": "营",
-        "definition": "camp; barracks",
+        "definition": "camp, barracks",
         "pinyin": "yíng"
     },
     "1042": {
@@ -6254,7 +6254,7 @@
     "1043": {
         "traditional": "爺",
         "simplified": "爷",
-        "definition": "father; grandfather",
+        "definition": "father, grandfather",
         "pinyin": "yé "
     },
     "1044": {
@@ -6266,7 +6266,7 @@
     "1045": {
         "traditional": "埃",
         "simplified": "埃",
-        "definition": "fine dust; dirt",
+        "definition": "fine dust, dirt",
         "pinyin": "āi "
     },
     "1046": {
@@ -6278,13 +6278,13 @@
     "1047": {
         "traditional": "蓋",
         "simplified": "盖",
-        "definition": "lid; cover",
+        "definition": "lid, cover",
         "pinyin": "gài"
     },
     "1048": {
         "traditional": "燈",
         "simplified": "灯",
-        "definition": "light; lamp",
+        "definition": "light, lamp",
         "pinyin": "dēng"
     },
     "1049": {
@@ -6308,13 +6308,13 @@
     "1052": {
         "traditional": "魂",
         "simplified": "魂",
-        "definition": "soul; spirit",
+        "definition": "soul, spirit",
         "pinyin": "hún"
     },
     "1053": {
         "traditional": "藝",
         "simplified": "艺",
-        "definition": "skill; art",
+        "definition": "skill, art",
         "pinyin": "yì"
     },
     "1054": {
@@ -6332,7 +6332,7 @@
     "1056": {
         "traditional": "升",
         "simplified": "升",
-        "definition": "to ascend; promote",
+        "definition": "to ascend, promote",
         "pinyin": "shēng"
     },
     "1057": {
@@ -6362,13 +6362,13 @@
     "1061": {
         "traditional": "研",
         "simplified": "研",
-        "definition": "study; research",
+        "definition": "study, research",
         "pinyin": "yán"
     },
     "1062": {
         "traditional": "菲",
         "simplified": "菲",
-        "definition": "fragrant; luxuriant",
+        "definition": "fragrant, luxuriant",
         "pinyin": "fēi "
     },
     "1063": {
@@ -6392,7 +6392,7 @@
     "1066": {
         "traditional": "附",
         "simplified": "附",
-        "definition": "to be close to; to add",
+        "definition": "to be close to, to add",
         "pinyin": "fù"
     },
     "1067": {
@@ -6416,7 +6416,7 @@
     "1070": {
         "traditional": "陽",
         "simplified": "阳",
-        "definition": "male; sun",
+        "definition": "male, sun",
         "pinyin": "yáng"
     },
     "1071": {
@@ -6434,7 +6434,7 @@
     "1073": {
         "traditional": "泰",
         "simplified": "泰",
-        "definition": "safe; grand",
+        "definition": "safe, grand",
         "pinyin": "tài"
     },
     "1074": {
@@ -6464,7 +6464,7 @@
     "1078": {
         "traditional": "避",
         "simplified": "避",
-        "definition": "to flee; to avoid",
+        "definition": "to flee, to avoid",
         "pinyin": "bì"
     },
     "1079": {
@@ -6482,13 +6482,13 @@
     "1081": {
         "traditional": "菜",
         "simplified": "菜",
-        "definition": "dish; cuisine; vegetable",
+        "definition": "dish, cuisine, vegetable",
         "pinyin": "cài"
     },
     "1082": {
         "traditional": "糖",
         "simplified": "糖",
-        "definition": "sugar; sweets",
+        "definition": "sugar, sweets",
         "pinyin": "táng "
     },
     "1083": {
@@ -6500,13 +6500,13 @@
     "1084": {
         "traditional": "富",
         "simplified": "富",
-        "definition": "rich; abundant",
+        "definition": "rich, abundant",
         "pinyin": "fù"
     },
     "1085": {
         "traditional": "降",
         "simplified": "降",
-        "definition": "to drop; descend",
+        "definition": "to drop, descend",
         "pinyin": "jiàng"
     },
     "1086": {
@@ -6518,7 +6518,7 @@
     "1087": {
         "traditional": "既",
         "simplified": "既",
-        "definition": "already; both…",
+        "definition": "already, both…",
         "pinyin": "jì"
     },
     "1088": {
@@ -6530,7 +6530,7 @@
     "1089": {
         "traditional": "執",
         "simplified": "执",
-        "definition": "to execute; to grasp",
+        "definition": "to execute, to grasp",
         "pinyin": "zhí"
     },
     "1090": {
@@ -6548,7 +6548,7 @@
     "1092": {
         "traditional": "抗",
         "simplified": "抗",
-        "definition": "to resist; anti-",
+        "definition": "to resist, anti-",
         "pinyin": "kàng"
     },
     "1093": {
@@ -6560,7 +6560,7 @@
     "1094": {
         "traditional": "航",
         "simplified": "航",
-        "definition": "boat; to sail",
+        "definition": "boat, to sail",
         "pinyin": "háng"
     },
     "1095": {
@@ -6596,7 +6596,7 @@
     "1100": {
         "traditional": "爛",
         "simplified": "烂",
-        "definition": "soft; rotten",
+        "definition": "soft, rotten",
         "pinyin": "làn"
     },
     "1101": {
@@ -6608,13 +6608,13 @@
     "1102": {
         "traditional": "掛",
         "simplified": "挂",
-        "definition": "to hang; to register",
+        "definition": "to hang, to register",
         "pinyin": "guà"
     },
     "1103": {
         "traditional": "旁",
         "simplified": "旁",
-        "definition": "beside; side",
+        "definition": "beside, side",
         "pinyin": "páng"
     },
     "1104": {
@@ -6626,7 +6626,7 @@
     "1105": {
         "traditional": "鑰",
         "simplified": "钥",
-        "definition": "key; lock",
+        "definition": "key, lock",
         "pinyin": "yào/yuè "
     },
     "1106": {
@@ -6644,7 +6644,7 @@
     "1108": {
         "traditional": "圈",
         "simplified": "圈",
-        "definition": "ring; to circle",
+        "definition": "ring, to circle",
         "pinyin": "quān"
     },
     "1109": {
@@ -6656,13 +6656,13 @@
     "1110": {
         "traditional": "勁",
         "simplified": "劲",
-        "definition": "strong; tough",
+        "definition": "strong, tough",
         "pinyin": "jìn/jìng "
     },
     "1111": {
         "traditional": "帕",
         "simplified": "帕",
-        "definition": "turban; veil",
+        "definition": "turban, veil",
         "pinyin": "pà "
     },
     "1112": {
@@ -6686,7 +6686,7 @@
     "1115": {
         "traditional": "層",
         "simplified": "层",
-        "definition": "layer; floor (of building)",
+        "definition": "layer, floor (of building)",
         "pinyin": "céng"
     },
     "1116": {
@@ -6704,7 +6704,7 @@
     "1118": {
         "traditional": "揮",
         "simplified": "挥",
-        "definition": "to wave; to disperse",
+        "definition": "to wave, to disperse",
         "pinyin": "huī"
     },
     "1119": {
@@ -6722,19 +6722,19 @@
     "1121": {
         "traditional": "折",
         "simplified": "折",
-        "definition": "to break; to turn",
+        "definition": "to break, to turn",
         "pinyin": "zhé"
     },
     "1122": {
         "traditional": "彼",
         "simplified": "彼",
-        "definition": "that; those",
+        "definition": "that, those",
         "pinyin": "bǐ"
     },
     "1123": {
         "traditional": "末",
         "simplified": "末",
-        "definition": "tip; final",
+        "definition": "tip, final",
         "pinyin": "mò"
     },
     "1124": {
@@ -6764,7 +6764,7 @@
     "1128": {
         "traditional": "副",
         "simplified": "副",
-        "definition": "secondary; vice-",
+        "definition": "secondary, vice-",
         "pinyin": "fù"
     },
     "1129": {
@@ -6794,13 +6794,13 @@
     "1133": {
         "traditional": "瓦",
         "simplified": "瓦",
-        "definition": "tile; pottery",
+        "definition": "tile, pottery",
         "pinyin": "wǎ "
     },
     "1134": {
         "traditional": "素",
         "simplified": "素",
-        "definition": "raw silk; nature",
+        "definition": "raw silk, nature",
         "pinyin": "sù"
     },
     "1135": {
@@ -6812,7 +6812,7 @@
     "1136": {
         "traditional": "誠",
         "simplified": "诚",
-        "definition": "honest; sincere",
+        "definition": "honest, sincere",
         "pinyin": "chéng"
     },
     "1137": {
@@ -6824,7 +6824,7 @@
     "1138": {
         "traditional": "敵",
         "simplified": "敌",
-        "definition": "enemy; to resist",
+        "definition": "enemy, to resist",
         "pinyin": "dí"
     },
     "1139": {
@@ -6872,19 +6872,19 @@
     "1146": {
         "traditional": "雄",
         "simplified": "雄",
-        "definition": "male; grand",
+        "definition": "male, grand",
         "pinyin": "xióng"
     },
     "1147": {
         "traditional": "丁",
         "simplified": "丁",
-        "definition": "male adult; robust",
+        "definition": "male adult, robust",
         "pinyin": "dīng"
     },
     "1148": {
         "traditional": "舒",
         "simplified": "舒",
-        "definition": "leisurely; to stretch",
+        "definition": "leisurely, to stretch",
         "pinyin": "shū"
     },
     "1149": {
@@ -6938,7 +6938,7 @@
     "1157": {
         "traditional": "稍",
         "simplified": "稍",
-        "definition": "somewhat; a little",
+        "definition": "somewhat, a little",
         "pinyin": "shāo"
     },
     "1158": {
@@ -6962,7 +6962,7 @@
     "1161": {
         "traditional": "源",
         "simplified": "源",
-        "definition": "source; origin",
+        "definition": "source, origin",
         "pinyin": "yuán"
     },
     "1162": {
@@ -6986,7 +6986,7 @@
     "1165": {
         "traditional": "疼",
         "simplified": "疼",
-        "definition": "aches; pains",
+        "definition": "aches, pains",
         "pinyin": "téng "
     },
     "1166": {
@@ -6998,13 +6998,13 @@
     "1167": {
         "traditional": "滑",
         "simplified": "滑",
-        "definition": "to slip; cunning",
+        "definition": "to slip, cunning",
         "pinyin": "huá"
     },
     "1168": {
         "traditional": "碎",
         "simplified": "碎",
-        "definition": "to break; broken",
+        "definition": "to break, broken",
         "pinyin": "suì "
     },
     "1169": {
@@ -7016,7 +7016,7 @@
     "1170": {
         "traditional": "仔",
         "simplified": "仔",
-        "definition": "meticulous; young",
+        "definition": "meticulous, young",
         "pinyin": "zǐ"
     },
     "1171": {
@@ -7046,13 +7046,13 @@
     "1175": {
         "traditional": "紋",
         "simplified": "纹",
-        "definition": "line; streak",
+        "definition": "line, streak",
         "pinyin": "wén "
     },
     "1176": {
         "traditional": "臭",
         "simplified": "臭",
-        "definition": "smell; stink",
+        "definition": "smell, stink",
         "pinyin": "chòu"
     },
     "1177": {
@@ -7076,13 +7076,13 @@
     "1180": {
         "traditional": "閃",
         "simplified": "闪",
-        "definition": "to dodge; flash",
+        "definition": "to dodge, flash",
         "pinyin": "shǎn"
     },
     "1181": {
         "traditional": "殘",
         "simplified": "残",
-        "definition": "to injure; cruel",
+        "definition": "to injure, cruel",
         "pinyin": "cán"
     },
     "1182": {
@@ -7100,19 +7100,19 @@
     "1184": {
         "traditional": "翻",
         "simplified": "翻",
-        "definition": "to translate; to flip",
+        "definition": "to translate, to flip",
         "pinyin": "fān"
     },
     "1185": {
         "traditional": "洲",
         "simplified": "洲",
-        "definition": "continent; island",
+        "definition": "continent, island",
         "pinyin": "zhōu"
     },
     "1186": {
         "traditional": "沉",
         "simplified": "沉",
-        "definition": "to submerge; sink",
+        "definition": "to submerge, sink",
         "pinyin": "chén"
     },
     "1187": {
@@ -7136,7 +7136,7 @@
     "1190": {
         "traditional": "卷",
         "simplified": "卷",
-        "definition": "roll; to roll up",
+        "definition": "roll, to roll up",
         "pinyin": "juǎn"
     },
     "1191": {
@@ -7154,19 +7154,19 @@
     "1193": {
         "traditional": "例",
         "simplified": "例",
-        "definition": "example; case",
+        "definition": "example, case",
         "pinyin": "lì"
     },
     "1194": {
         "traditional": "財",
         "simplified": "财",
-        "definition": "money; wealth",
+        "definition": "money, wealth",
         "pinyin": "cái"
     },
     "1195": {
         "traditional": "瓶",
         "simplified": "瓶",
-        "definition": "bottle; vase",
+        "definition": "bottle, vase",
         "pinyin": "píng"
     },
     "1196": {
@@ -7178,19 +7178,19 @@
     "1197": {
         "traditional": "拳",
         "simplified": "拳",
-        "definition": "fist; boxing",
+        "definition": "fist, boxing",
         "pinyin": "quán"
     },
     "1198": {
         "traditional": "牢",
         "simplified": "牢",
-        "definition": "prison; stable",
+        "definition": "prison, stable",
         "pinyin": "láo "
     },
     "1199": {
         "traditional": "典",
         "simplified": "典",
-        "definition": "dictionary; law",
+        "definition": "dictionary, law",
         "pinyin": "diǎn"
     },
     "1200": {
@@ -7202,13 +7202,13 @@
     "1201": {
         "traditional": "染",
         "simplified": "染",
-        "definition": "to dye; to acquire",
+        "definition": "to dye, to acquire",
         "pinyin": "rǎn"
     },
     "1202": {
         "traditional": "漫",
         "simplified": "漫",
-        "definition": "free; to inundate",
+        "definition": "free, to inundate",
         "pinyin": "màn"
     },
     "1203": {
@@ -7220,7 +7220,7 @@
     "1204": {
         "traditional": "脅",
         "simplified": "胁",
-        "definition": "ribs; to threaten",
+        "definition": "ribs, to threaten",
         "pinyin": "xié "
     },
     "1205": {
@@ -7238,13 +7238,13 @@
     "1207": {
         "traditional": "胸",
         "simplified": "胸",
-        "definition": "breast; chest",
+        "definition": "breast, chest",
         "pinyin": "xiōng "
     },
     "1208": {
         "traditional": "陰",
         "simplified": "阴",
-        "definition": "cloudy; female",
+        "definition": "cloudy, female",
         "pinyin": "yīn"
     },
     "1209": {
@@ -7280,7 +7280,7 @@
     "1214": {
         "traditional": "邦",
         "simplified": "邦",
-        "definition": "country; nation",
+        "definition": "country, nation",
         "pinyin": "bāng"
     },
     "1215": {
@@ -7322,7 +7322,7 @@
     "1221": {
         "traditional": "怖",
         "simplified": "怖",
-        "definition": "terror; fear",
+        "definition": "terror, fear",
         "pinyin": "bù "
     },
     "1222": {
@@ -7352,7 +7352,7 @@
     "1226": {
         "traditional": "墨",
         "simplified": "墨",
-        "definition": "black; corrupt",
+        "definition": "black, corrupt",
         "pinyin": "mò "
     },
     "1227": {
@@ -7364,7 +7364,7 @@
     "1228": {
         "traditional": "采",
         "simplified": "采",
-        "definition": "to select; looks",
+        "definition": "to select, looks",
         "pinyin": "cǎi"
     },
     "1229": {
@@ -7418,7 +7418,7 @@
     "1237": {
         "traditional": "茲",
         "simplified": "兹",
-        "definition": "now; here; this",
+        "definition": "now, here, this",
         "pinyin": "zī "
     },
     "1238": {
@@ -7430,13 +7430,13 @@
     "1239": {
         "traditional": "青",
         "simplified": "青",
-        "definition": "green/blue; young",
+        "definition": "green/blue, young",
         "pinyin": "qīng"
     },
     "1240": {
         "traditional": "席",
         "simplified": "席",
-        "definition": "mat; banquet",
+        "definition": "mat, banquet",
         "pinyin": "xí"
     },
     "1241": {
@@ -7448,7 +7448,7 @@
     "1242": {
         "traditional": "猶",
         "simplified": "犹",
-        "definition": "like; similar to",
+        "definition": "like, similar to",
         "pinyin": "yóu "
     },
     "1243": {
@@ -7460,7 +7460,7 @@
     "1244": {
         "traditional": "贊",
         "simplified": "赞",
-        "definition": "to praise; to support",
+        "definition": "to praise, to support",
         "pinyin": "zàn"
     },
     "1245": {
@@ -7484,19 +7484,19 @@
     "1248": {
         "traditional": "訪",
         "simplified": "访",
-        "definition": "to call on; to inquire",
+        "definition": "to call on, to inquire",
         "pinyin": "fǎng"
     },
     "1249": {
         "traditional": "良",
         "simplified": "良",
-        "definition": "good; very much",
+        "definition": "good, very much",
         "pinyin": "liáng"
     },
     "1250": {
         "traditional": "叛",
         "simplified": "叛",
-        "definition": "to rebel; rebellion",
+        "definition": "to rebel, rebellion",
         "pinyin": "pàn "
     },
     "1251": {
@@ -7508,7 +7508,7 @@
     "1252": {
         "traditional": "范",
         "simplified": "范",
-        "definition": "pattern; model",
+        "definition": "pattern, model",
         "pinyin": "fàn"
     },
     "1253": {
@@ -7526,7 +7526,7 @@
     "1255": {
         "traditional": "辛",
         "simplified": "辛",
-        "definition": "hot taste; hard",
+        "definition": "hot taste, hard",
         "pinyin": "xīn"
     },
     "1256": {
@@ -7544,19 +7544,19 @@
     "1258": {
         "traditional": "洞",
         "simplified": "洞",
-        "definition": "cave; hole",
+        "definition": "cave, hole",
         "pinyin": "dòng"
     },
     "1259": {
         "traditional": "冠",
         "simplified": "冠",
-        "definition": "hat; crown",
+        "definition": "hat, crown",
         "pinyin": "guān"
     },
     "1260": {
         "traditional": "偉",
         "simplified": "伟",
-        "definition": "big; great",
+        "definition": "big, great",
         "pinyin": "wěi"
     },
     "1261": {
@@ -7574,25 +7574,25 @@
     "1263": {
         "traditional": "朗",
         "simplified": "朗",
-        "definition": "clear; bright",
+        "definition": "clear, bright",
         "pinyin": "lǎng "
     },
     "1264": {
         "traditional": "欠",
         "simplified": "欠",
-        "definition": "owe; lack",
+        "definition": "owe, lack",
         "pinyin": "qiàn "
     },
     "1265": {
         "traditional": "扯",
         "simplified": "扯",
-        "definition": "rip up; haul",
+        "definition": "rip up, haul",
         "pinyin": "chě "
     },
     "1266": {
         "traditional": "丑",
         "simplified": "丑",
-        "definition": "clown; ugly",
+        "definition": "clown, ugly",
         "pinyin": "chǒu "
     },
     "1267": {
@@ -7610,7 +7610,7 @@
     "1269": {
         "traditional": "烈",
         "simplified": "烈",
-        "definition": "fierce; intense",
+        "definition": "fierce, intense",
         "pinyin": "liè"
     },
     "1270": {
@@ -7652,7 +7652,7 @@
     "1276": {
         "traditional": "堆",
         "simplified": "堆",
-        "definition": "to pile up; heap",
+        "definition": "to pile up, heap",
         "pinyin": "duī"
     },
     "1277": {
@@ -7664,13 +7664,13 @@
     "1278": {
         "traditional": "率",
         "simplified": "率",
-        "definition": "to lead; frank",
+        "definition": "to lead, frank",
         "pinyin": "shuài"
     },
     "1279": {
         "traditional": "怒",
         "simplified": "怒",
-        "definition": "anger; rage",
+        "definition": "anger, rage",
         "pinyin": "nù "
     },
     "1280": {
@@ -7682,13 +7682,13 @@
     "1281": {
         "traditional": "液",
         "simplified": "液",
-        "definition": "sap; juice",
+        "definition": "sap, juice",
         "pinyin": "yè "
     },
     "1282": {
         "traditional": "謂",
         "simplified": "谓",
-        "definition": "to speak; meaning",
+        "definition": "to speak, meaning",
         "pinyin": "wèi"
     },
     "1283": {
@@ -7706,7 +7706,7 @@
     "1285": {
         "traditional": "磨",
         "simplified": "磨",
-        "definition": "grind; rub",
+        "definition": "grind, rub",
         "pinyin": "mó/mò "
     },
     "1286": {
@@ -7748,7 +7748,7 @@
     "1292": {
         "traditional": "娃",
         "simplified": "娃",
-        "definition": "baby; doll",
+        "definition": "baby, doll",
         "pinyin": "wá "
     },
     "1293": {
@@ -7772,7 +7772,7 @@
     "1296": {
         "traditional": "損",
         "simplified": "损",
-        "definition": "to decrease; damage",
+        "definition": "to decrease, damage",
         "pinyin": "sǔn"
     },
     "1297": {
@@ -7802,7 +7802,7 @@
     "1301": {
         "traditional": "泡",
         "simplified": "泡",
-        "definition": "bubble; to steep",
+        "definition": "bubble, to steep",
         "pinyin": "pào"
     },
     "1302": {
@@ -7820,7 +7820,7 @@
     "1304": {
         "traditional": "途",
         "simplified": "途",
-        "definition": "way; route",
+        "definition": "way, route",
         "pinyin": "tú"
     },
     "1305": {
@@ -7922,13 +7922,13 @@
     "1321": {
         "traditional": "郵",
         "simplified": "邮",
-        "definition": "post; mail",
+        "definition": "post, mail",
         "pinyin": "yóu"
     },
     "1322": {
         "traditional": "俱",
         "simplified": "俱",
-        "definition": "all; together",
+        "definition": "all, together",
         "pinyin": "jù "
     },
     "1323": {
@@ -7958,7 +7958,7 @@
     "1327": {
         "traditional": "序",
         "simplified": "序",
-        "definition": "order; sequence",
+        "definition": "order, sequence",
         "pinyin": "xù"
     },
     "1328": {
@@ -8006,7 +8006,7 @@
     "1335": {
         "traditional": "插",
         "simplified": "插",
-        "definition": "to insert; pierce",
+        "definition": "to insert, pierce",
         "pinyin": "chā"
     },
     "1336": {
@@ -8018,25 +8018,25 @@
     "1337": {
         "traditional": "尚",
         "simplified": "尚",
-        "definition": "still; yet; to value",
+        "definition": "still, yet, to value",
         "pinyin": "shàng"
     },
     "1338": {
         "traditional": "潛",
         "simplified": "潜",
-        "definition": "to hide; hidden",
+        "definition": "to hide, hidden",
         "pinyin": "qián "
     },
     "1339": {
         "traditional": "構",
         "simplified": "构",
-        "definition": "to assign; faciton",
+        "definition": "to assign, faciton",
         "pinyin": "gòu"
     },
     "1340": {
         "traditional": "烤",
         "simplified": "烤",
-        "definition": "bake; roast",
+        "definition": "bake, roast",
         "pinyin": "kǎo "
     },
     "1341": {
@@ -8060,7 +8060,7 @@
     "1344": {
         "traditional": "爽",
         "simplified": "爽",
-        "definition": "bright; crisp",
+        "definition": "bright, crisp",
         "pinyin": "shuǎng"
     },
     "1345": {
@@ -8072,7 +8072,7 @@
     "1346": {
         "traditional": "緒",
         "simplified": "绪",
-        "definition": "beginnings; thread",
+        "definition": "beginnings, thread",
         "pinyin": "xù"
     },
     "1347": {
@@ -8096,7 +8096,7 @@
     "1350": {
         "traditional": "賓",
         "simplified": "宾",
-        "definition": "guest; visitor",
+        "definition": "guest, visitor",
         "pinyin": "bīn "
     },
     "1351": {
@@ -8126,7 +8126,7 @@
     "1355": {
         "traditional": "欲",
         "simplified": "欲",
-        "definition": "to wish for; desire",
+        "definition": "to wish for, desire",
         "pinyin": "yù"
     },
     "1356": {
@@ -8162,7 +8162,7 @@
     "1361": {
         "traditional": "括",
         "simplified": "括",
-        "definition": "to enclose; to include",
+        "definition": "to enclose, to include",
         "pinyin": "kuò"
     },
     "1362": {
@@ -8174,25 +8174,25 @@
     "1363": {
         "traditional": "穩",
         "simplified": "稳",
-        "definition": "steady; stable",
+        "definition": "steady, stable",
         "pinyin": "wěn"
     },
     "1364": {
         "traditional": "膽",
         "simplified": "胆",
-        "definition": "gall; bravery",
+        "definition": "gall, bravery",
         "pinyin": "dǎn "
     },
     "1365": {
         "traditional": "甲",
         "simplified": "甲",
-        "definition": "first; shell",
+        "definition": "first, shell",
         "pinyin": "jiǎ"
     },
     "1366": {
         "traditional": "賴",
         "simplified": "赖",
-        "definition": "to depend on; bad",
+        "definition": "to depend on, bad",
         "pinyin": "lài"
     },
     "1367": {
@@ -8204,19 +8204,19 @@
     "1368": {
         "traditional": "佩",
         "simplified": "佩",
-        "definition": "to respect; wear (belt)",
+        "definition": "to respect, wear (belt)",
         "pinyin": "pèi"
     },
     "1369": {
         "traditional": "啟",
         "simplified": "启",
-        "definition": "to start; to open",
+        "definition": "to start, to open",
         "pinyin": "qǐ"
     },
     "1370": {
         "traditional": "胎",
         "simplified": "胎",
-        "definition": "embryo; fetus",
+        "definition": "embryo, fetus",
         "pinyin": "tāi "
     },
     "1371": {
@@ -8282,7 +8282,7 @@
     "1381": {
         "traditional": "乖",
         "simplified": "乖",
-        "definition": "clever; shrewd",
+        "definition": "clever, shrewd",
         "pinyin": "guāi"
     },
     "1382": {
@@ -8294,7 +8294,7 @@
     "1383": {
         "traditional": "咬",
         "simplified": "咬",
-        "definition": "bite; gnaw",
+        "definition": "bite, gnaw",
         "pinyin": "yǎo "
     },
     "1384": {
@@ -8360,13 +8360,13 @@
     "1394": {
         "traditional": "池",
         "simplified": "池",
-        "definition": "pond; reservoir",
+        "definition": "pond, reservoir",
         "pinyin": "chí"
     },
     "1395": {
         "traditional": "虛",
         "simplified": "虚",
-        "definition": "emptiness; modest",
+        "definition": "emptiness, modest",
         "pinyin": "xū"
     },
     "1396": {
@@ -8384,7 +8384,7 @@
     "1398": {
         "traditional": "泳",
         "simplified": "泳",
-        "definition": "to dive; swim",
+        "definition": "to dive, swim",
         "pinyin": "yǒng "
     },
     "1399": {
@@ -8396,13 +8396,13 @@
     "1400": {
         "traditional": "尖",
         "simplified": "尖",
-        "definition": "sharp; acute",
+        "definition": "sharp, acute",
         "pinyin": "jiān "
     },
     "1401": {
         "traditional": "申",
         "simplified": "申",
-        "definition": "to extend; to state",
+        "definition": "to extend, to state",
         "pinyin": "shēn"
     },
     "1402": {
@@ -8438,7 +8438,7 @@
     "1407": {
         "traditional": "拯",
         "simplified": "拯",
-        "definition": "to help; to save",
+        "definition": "to help, to save",
         "pinyin": "zhěng "
     },
     "1408": {
@@ -8480,7 +8480,7 @@
     "1414": {
         "traditional": "辣",
         "simplified": "辣",
-        "definition": "hot; spicy",
+        "definition": "hot, spicy",
         "pinyin": "là "
     },
     "1415": {
@@ -8498,7 +8498,7 @@
     "1417": {
         "traditional": "肥",
         "simplified": "肥",
-        "definition": "fat; plump",
+        "definition": "fat, plump",
         "pinyin": "féi "
     },
     "1418": {
@@ -8528,7 +8528,7 @@
     "1422": {
         "traditional": "省",
         "simplified": "省",
-        "definition": "to save; province",
+        "definition": "to save, province",
         "pinyin": "shěng"
     },
     "1423": {
@@ -8570,7 +8570,7 @@
     "1429": {
         "traditional": "增",
         "simplified": "增",
-        "definition": "to increase; add",
+        "definition": "to increase, add",
         "pinyin": "zēng"
     },
     "1430": {
@@ -8606,7 +8606,7 @@
     "1435": {
         "traditional": "邪",
         "simplified": "邪",
-        "definition": "demonic; evil",
+        "definition": "demonic, evil",
         "pinyin": "xié"
     },
     "1436": {
@@ -8636,7 +8636,7 @@
     "1440": {
         "traditional": "軟",
         "simplified": "软",
-        "definition": "soft; flexible",
+        "definition": "soft, flexible",
         "pinyin": "ruǎn"
     },
     "1441": {
@@ -8672,7 +8672,7 @@
     "1446": {
         "traditional": "貼",
         "simplified": "贴",
-        "definition": "to paste; to post",
+        "definition": "to paste, to post",
         "pinyin": "tiē"
     },
     "1447": {
@@ -8684,13 +8684,13 @@
     "1448": {
         "traditional": "略",
         "simplified": "略",
-        "definition": "summary; strategy",
+        "definition": "summary, strategy",
         "pinyin": "lüè"
     },
     "1449": {
         "traditional": "符",
         "simplified": "符",
-        "definition": "symbol; charm",
+        "definition": "symbol, charm",
         "pinyin": "fú"
     },
     "1450": {
@@ -8702,7 +8702,7 @@
     "1451": {
         "traditional": "陸",
         "simplified": "陆",
-        "definition": "shore; land",
+        "definition": "shore, land",
         "pinyin": "lù"
     },
     "1452": {
@@ -8780,7 +8780,7 @@
     "1464": {
         "traditional": "羞",
         "simplified": "羞",
-        "definition": "disgrace; shy",
+        "definition": "disgrace, shy",
         "pinyin": "xiū "
     },
     "1465": {
@@ -8810,7 +8810,7 @@
     "1469": {
         "traditional": "端",
         "simplified": "端",
-        "definition": "to hold; end points",
+        "definition": "to hold, end points",
         "pinyin": "duān"
     },
     "1470": {
@@ -8834,13 +8834,13 @@
     "1473": {
         "traditional": "慈",
         "simplified": "慈",
-        "definition": "kind; charitable",
+        "definition": "kind, charitable",
         "pinyin": "cí "
     },
     "1474": {
         "traditional": "仇",
         "simplified": "仇",
-        "definition": "enemy; hate",
+        "definition": "enemy, hate",
         "pinyin": "chóu"
     },
     "1475": {
@@ -8858,13 +8858,13 @@
     "1477": {
         "traditional": "遜",
         "simplified": "逊",
-        "definition": "humble; worse",
+        "definition": "humble, worse",
         "pinyin": "xùn "
     },
     "1478": {
         "traditional": "黎",
         "simplified": "黎",
-        "definition": "dawn; black",
+        "definition": "dawn, black",
         "pinyin": "lí "
     },
     "1479": {
@@ -8894,7 +8894,7 @@
     "1483": {
         "traditional": "罷",
         "simplified": "罢",
-        "definition": "to stop; to suspend",
+        "definition": "to stop, to suspend",
         "pinyin": "bà"
     },
     "1484": {
@@ -8912,7 +8912,7 @@
     "1486": {
         "traditional": "偏",
         "simplified": "偏",
-        "definition": "to lean; oblique",
+        "definition": "to lean, oblique",
         "pinyin": "piān"
     },
     "1487": {
@@ -8954,7 +8954,7 @@
     "1493": {
         "traditional": "域",
         "simplified": "域",
-        "definition": "field; region",
+        "definition": "field, region",
         "pinyin": "yù"
     },
     "1494": {
@@ -8984,7 +8984,7 @@
     "1498": {
         "traditional": "黨",
         "simplified": "党",
-        "definition": "party; association",
+        "definition": "party, association",
         "pinyin": "dǎng"
     },
     "1499": {
@@ -8993,4 +8993,4 @@
         "definition": "to sell",
         "pinyin": "shòu"
     }
-}}
+}

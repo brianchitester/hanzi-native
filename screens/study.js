@@ -5,21 +5,32 @@ import {
     View,
     Text,
     ImageBackground,
-    TouchableOpacity,
 } from 'react-native';
 import backgroundImage from '../assets/background.png';
+import Head from '../components/head';
 
-const Home = ({navigation}) => {
+const getRandom = (min, max) => {
+    return Math.floor(Math.random() * (max - min) + min);
+};
+
+function shuffle(a) {
+    let j, x, i;
+    for (i = a.length - 1; i > 0; i--) {
+        j = Math.floor(Math.random() * (i + 1));
+        x = a[i];
+        a[i] = a[j];
+        a[j] = x;
+    }
+    return a;
+}
+
+const Study = ({navigation}) => {
     return (
         <ImageBackground
             source={backgroundImage}
             style={styles.backgroundImage}>
             <SafeAreaView>
-                <TouchableOpacity
-                    style={styles.menuIcon}
-                    onPress={() => navigation.openDrawer()}>
-                    <Text>三</Text>
-                </TouchableOpacity>
+                <Head />
                 <View>
                     <Text>欢迎</Text>
                     <Text>Read the docs to discover what to do next</Text>
@@ -31,8 +42,10 @@ const Home = ({navigation}) => {
 
 const styles = StyleSheet.create({
     menuIcon: {
-        margin: 10,
-        fontSize: 32,
+        marginTop: 30,
+        marginLeft: 30,
+        fontSize: 30,
+        fontWeight: 'bold',
     },
     backgroundImage: {
         flex: 1,
@@ -40,4 +53,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default Home;
+export default Study;

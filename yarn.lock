@@ -1014,6 +1014,14 @@
   dependencies:
     shortid "^2.2.15"
 
+"@react-navigation/stack@^5.1.1":
+  version "5.1.1"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/@react-navigation/stack/-/stack-5.1.1.tgz#4fff1dc3fec66d7b71cfc31691d6e83d8777d5f8"
+  integrity sha1-T/8dw/7GbXtxz8MWkdboPYd31fg=
+  dependencies:
+    color "^3.1.2"
+    react-native-iphone-x-helper "^1.2.1"
+
 "@types/babel__core@^7.1.0":
   version "7.1.6"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/@types/babel__core/-/babel__core-7.1.6.tgz#16ff42a5ae203c9af1c6e190ed1f30f83207b610"
