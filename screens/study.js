@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {Component} from 'react';
 import {
     SafeAreaView,
     StyleSheet,
@@ -18,7 +18,7 @@ const getRandom = (min, max) => {
     return Math.floor(Math.random() * (max - min) + min);
 };
 
-function shuffle(a) {
+const shuffle = a => {
     let j, x, i;
     for (i = a.length - 1; i > 0; i--) {
         j = Math.floor(Math.random() * (i + 1));
@@ -27,18 +27,16 @@ function shuffle(a) {
         a[j] = x;
     }
     return a;
-}
-const getSetting = async (key, setStateFunction, defaultValue) => {
+};
+const getSetting = async (key, defaultValue) => {
     try {
         const value = await AsyncStorage.getItem(key);
         if (value !== null) {
-            setStateFunction(value);
-        } else if (defaultValue) {
-            setStateFunction(defaultValue);
+            return value;
         }
     } catch (e) {
         console.error(e);
-        setStateFunction(defaultValue);
+        return defaultValue;
     }
 };
 
@@ -86,66 +84,95 @@ const getAnswers = (currentCharacter, maxCharacters) => {
     return shuffle(answers);
 };
 
-const renderAnswers = (answers, setStateFunction) => {
-    return answers.map(answer => {
+class Study extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            maxCharacters: null,
+            currentCharacter: null,
+            currentSentence: null,
+            pinyinAnswer: null,
+            meaningAnswer: null,
+            pinyinAnswers: [],
+            meaningAnswers: [],
+        };
+    }
+
+    reset = async () => {
+        let {maxCharacters} = this.state;
+        if (!maxCharacters) {
+            maxCharacters = await getSetting('@CharacterCount', 1000);
+        }
+        const currentCharacter = Characters[getRandom(0, maxCharacters)];
+        this.setState({
+            maxCharacters,
+            currentCharacter,
+            currentSentence: getCurrentSentence(currentCharacter),
+            pinyinAnswers: getAnswers(currentCharacter, maxCharacters),
+            meaningAnswers: getAnswers(currentCharacter, maxCharacters),
+        });
+    };
+
+    componentDidMount() {
+        this.reset();
+    }
+
+    renderAnswers = (answers, setStateFunction) => {
+        return answers.map(answer => {
+            return (
+                <TouchableOpacity
+                    onPress={() =>
+                        this.setState({
+                            pinyinAnswer: answer,
+                        })
+                    }
+                    style={styles.answer}>
+                    <Text style={styles.answerText}>
+                        {answer && answer.pinyin}
+                    </Text>
+                </TouchableOpacity>
+            );
+        });
+    };
+
+    render() {
+        const {
+            currentCharacter,
+            currentSentence,
+            pinyinAnswer,
+            pinyinAnswers,
+        } = this.state;
         return (
-            <TouchableOpacity
-                onPress={() => setStateFunction(answer)}
-                style={styles.answer}>
-                <Text style={styles.answerText}>{answer.pinyin}</Text>
-            </TouchableOpacity>
+            <ImageBackground
+                source={backgroundImage}
+                style={styles.backgroundImage}>
+                <SafeAreaView style={styles.safeArea}>
+                    <Head />
+                    <View>
+                        <Text style={styles.character}>
+                            {currentCharacter && currentCharacter.traditional}
+                        </Text>
+                        <Text style={styles.sentence}>
+                            {currentSentence && currentSentence.traditional}
+                        </Text>
+                        <Text style={styles.sentence}>
+                            {currentSentence && currentSentence.pinyin}
+                        </Text>
+                        <Text style={styles.sentence}>
+                            {currentSentence && currentSentence.english}
+                        </Text>
+                    </View>
+                    <View style={styles.answers}>
+                        {this.renderAnswers(pinyinAnswers)}
+                    </View>
+                    <Text style={styles.sentence}>
+                        {pinyinAnswer && pinyinAnswer.pinyin}
+                    </Text>
+                </SafeAreaView>
+            </ImageBackground>
         );
-    });
-};
-
-const Study = ({navigation}) => {
-    const [maxCharacters, setCharacterCount] = useState(1000);
-
-    useEffect(() => {
-        getSetting('@CharacterCount', setCharacterCount);
-    }, []);
-
-    const [currentCharacter, setCurrentCharacter] = useState(
-        Characters[getRandom(0, maxCharacters)],
-    );
-    const [currentSentence, setCurrentSentence] = useState(
-        getCurrentSentence(currentCharacter),
-    );
-    const [pinyinAnswer, setPinyinAnswer] = useState(null);
-    const [meaningAnswer, setMeaningAnswer] = useState(null);
-
-    const answers = getAnswers(currentCharacter, maxCharacters);
-
-    return (
-        <ImageBackground
-            source={backgroundImage}
-            style={styles.backgroundImage}>
-            <SafeAreaView style={styles.safeArea}>
-                <Head />
-                <View>
-                    <Text style={styles.character}>
-                        {currentCharacter.traditional}
-                    </Text>
-                    <Text style={styles.sentence}>
-                        {currentSentence.traditional}
-                    </Text>
-                    <Text style={styles.sentence}>
-                        {currentSentence.pinyin}
-                    </Text>
-                    <Text style={styles.sentence}>
-                        {currentSentence.english}
-                    </Text>
-                </View>
-                <View style={styles.answers}>
-                    {renderAnswers(answers, setPinyinAnswer)}
-                </View>
-                <Text style={styles.sentence}>
-                    {pinyinAnswer && pinyinAnswer.pinyin}
-                </Text>
-            </SafeAreaView>
-        </ImageBackground>
-    );
-};
+    }
+}
 
 const styles = StyleSheet.create({
     safeArea: {
