@@ -4,6 +4,7 @@ import {StyleSheet} from 'react-native';
 import {createDrawerNavigator} from '@react-navigation/drawer';
 import Study from '../screens/study';
 import Settings from '../screens/settings';
+import Sandbox from '../screens/sandbox';
 
 const Drawer = createDrawerNavigator();
 
@@ -20,6 +21,7 @@ const Main = () => {
             <Drawer.Screen name="Study" component={Study} />
             <Drawer.Screen name="Profile" component={Study} />
             <Drawer.Screen name="Settings" component={Settings} />
+            <Drawer.Screen name="Sandbox" component={Sandbox} />
         </Drawer.Navigator>
     );
 };
