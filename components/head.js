@@ -17,7 +17,7 @@ const Head = () => {
 
 const styles = StyleSheet.create({
     menuIcon: {
-        marginTop: 30,
+        marginTop: 10,
         marginLeft: 30,
         fontSize: 30,
         fontWeight: 'bold',

@@ -264,6 +264,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'center',
         width: Dimensions.get('window').width / 2 - 20,
+        height: 100,
         borderWidth: 1,
     },
     answerText: {
