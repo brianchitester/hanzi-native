@@ -110,6 +110,8 @@ class Study extends Component {
             currentSentence: getCurrentSentence(currentCharacter),
             pinyinAnswers: getAnswers(currentCharacter, maxCharacters),
             meaningAnswers: getAnswers(currentCharacter, maxCharacters),
+            pinyinAnswer: null,
+            meaningAnswer: null,
         });
     };
 
@@ -117,18 +119,21 @@ class Study extends Component {
         this.reset();
     }
 
-    renderAnswers = (answers, setStateFunction) => {
+    renderAnswers = (answers, answerType) => {
         return answers.map(answer => {
             return (
                 <TouchableOpacity
                     onPress={() =>
                         this.setState({
-                            pinyinAnswer: answer,
+                            [answerType]: answer,
                         })
                     }
-                    style={styles.answer}>
+                    style={styles.answer}
+                    key={answer.pinyin}>
                     <Text style={styles.answerText}>
-                        {answer && answer.pinyin}
+                        {answer && answerType === 'pinyinAnswer'
+                            ? answer.pinyin
+                            : answer.definition}
                     </Text>
                 </TouchableOpacity>
             );
@@ -141,6 +146,8 @@ class Study extends Component {
             currentSentence,
             pinyinAnswer,
             pinyinAnswers,
+            meaningAnswer,
+            meaningAnswers,
         } = this.state;
         return (
             <ImageBackground
@@ -162,12 +169,47 @@ class Study extends Component {
                             {currentSentence && currentSentence.english}
                         </Text>
                     </View>
-                    <View style={styles.answers}>
-                        {this.renderAnswers(pinyinAnswers)}
-                    </View>
-                    <Text style={styles.sentence}>
-                        {pinyinAnswer && pinyinAnswer.pinyin}
-                    </Text>
+                    {!pinyinAnswer && (
+                        <View style={styles.answers}>
+                            {this.renderAnswers(pinyinAnswers, 'pinyinAnswer')}
+                        </View>
+                    )}
+                    {pinyinAnswer && (
+                        <Text
+                            style={[
+                                styles.sentence,
+                                pinyinAnswer.pinyin === currentCharacter.pinyin
+                                    ? styles.correct
+                                    : styles.incorrect,
+                            ]}>
+                            {pinyinAnswer.pinyin}
+                        </Text>
+                    )}
+                    {pinyinAnswer && !meaningAnswer && (
+                        <View style={styles.answers}>
+                            {this.renderAnswers(
+                                meaningAnswers,
+                                'meaningAnswer',
+                            )}
+                        </View>
+                    )}
+                    {meaningAnswer && (
+                        <Text
+                            style={[
+                                styles.sentence,
+                                meaningAnswer.definition ===
+                                currentCharacter.definition
+                                    ? styles.correct
+                                    : styles.incorrect,
+                            ]}>
+                            {meaningAnswer.definition}
+                        </Text>
+                    )}
+                    {pinyinAnswer && meaningAnswer && (
+                        <TouchableOpacity onPress={() => this.reset()}>
+                            <Text>Next</Text>
+                        </TouchableOpacity>
+                    )}
                 </SafeAreaView>
             </ImageBackground>
         );
@@ -187,6 +229,9 @@ const styles = StyleSheet.create({
         padding: 5,
     },
     answer: {
+        flexWrap: 'wrap',
+        flexDirection: 'row',
+        justifyContent: 'center',
         width: Dimensions.get('window').width / 2 - 20,
         borderWidth: 1,
     },
@@ -208,6 +253,12 @@ const styles = StyleSheet.create({
     backgroundImage: {
         flex: 1,
         resizeMode: 'cover', // or 'stretch'
+    },
+    correct: {
+        color: 'green',
+    },
+    incorrect: {
+        color: 'red',
     },
 });
 

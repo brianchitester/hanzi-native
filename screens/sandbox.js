@@ -1,5 +1,5 @@
 import React from 'react';
-import {SafeAreaView, StyleSheet, View, Text} from 'react-native';
+import {SafeAreaView, StyleSheet, View, Text, Dimensions} from 'react-native';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 
 const renderItems = items => {
@@ -27,24 +27,20 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     items: {
-        flex: 1,
-        flexWrap: 'wrap',
-        flexDirection: 'row',
         justifyContent: 'center',
+        flexDirection: 'row',
+        flexWrap: 'wrap',
         borderWidth: 1,
         padding: 5,
-        width: '100%',
-        flexGrow: 1,
-        flexShrink: 0,
     },
     item: {
-        width: 200,
+        width: Dimensions.get('window').width / 2 - 20,
         borderWidth: 1,
-        padding: 20,
     },
     itemText: {
+        fontSize: 25,
+        padding: 20,
         textAlign: 'center',
-        fontSize: 45,
     },
 });
 
