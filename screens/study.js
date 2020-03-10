@@ -56,7 +56,7 @@ const getCurrentSentence = currentCharacter => {
         .sort((a, b) => {
             return a.simplified.length - b.simplified.length;
         })
-        .slice(0, 6);
+        .slice(0, 4);
 
     // get a random sentence from the list of possible ones
     let sentence = exampleSentences[getRandom(0, exampleSentences.length)];
@@ -155,61 +155,81 @@ class Study extends Component {
                 style={styles.backgroundImage}>
                 <SafeAreaView style={styles.safeArea}>
                     <Head />
-                    <View>
-                        <Text style={styles.character}>
-                            {currentCharacter && currentCharacter.traditional}
-                        </Text>
-                        <Text style={styles.sentence}>
-                            {currentSentence && currentSentence.traditional}
-                        </Text>
-                        <Text style={styles.sentence}>
-                            {currentSentence && currentSentence.pinyin}
-                        </Text>
-                        <Text style={styles.sentence}>
-                            {currentSentence && currentSentence.english}
-                        </Text>
-                    </View>
-                    {!pinyinAnswer && (
-                        <View style={styles.answers}>
-                            {this.renderAnswers(pinyinAnswers, 'pinyinAnswer')}
-                        </View>
-                    )}
-                    {pinyinAnswer && (
-                        <Text
-                            style={[
-                                styles.sentence,
-                                pinyinAnswer.pinyin === currentCharacter.pinyin
-                                    ? styles.correct
-                                    : styles.incorrect,
-                            ]}>
-                            {pinyinAnswer.pinyin}
-                        </Text>
-                    )}
-                    {pinyinAnswer && !meaningAnswer && (
-                        <View style={styles.answers}>
-                            {this.renderAnswers(
-                                meaningAnswers,
-                                'meaningAnswer',
+                    <View style={styles.currentCharacter}>
+                        <View style={styles.topRow}>
+                            {pinyinAnswer ? (
+                                <Text
+                                    style={[
+                                        styles.displayAnswer,
+                                        pinyinAnswer.pinyin ===
+                                        currentCharacter.pinyin
+                                            ? styles.correct
+                                            : styles.incorrect,
+                                    ]}>
+                                    {currentCharacter.pinyin}
+                                </Text>
+                            ) : (
+                                <Text style={styles.displayAnswer}>•</Text>
+                            )}
+                            <Text style={styles.character}>
+                                {currentCharacter &&
+                                    currentCharacter.simplified}
+                            </Text>
+                            {meaningAnswer ? (
+                                <Text
+                                    style={[
+                                        styles.displayAnswer,
+                                        meaningAnswer.definition ===
+                                        currentCharacter.definition
+                                            ? styles.correct
+                                            : styles.incorrect,
+                                    ]}>
+                                    {currentCharacter.definition}
+                                </Text>
+                            ) : (
+                                <Text style={styles.displayAnswer}>•</Text>
                             )}
                         </View>
-                    )}
-                    {meaningAnswer && (
-                        <Text
-                            style={[
-                                styles.sentence,
-                                meaningAnswer.definition ===
-                                currentCharacter.definition
-                                    ? styles.correct
-                                    : styles.incorrect,
-                            ]}>
-                            {meaningAnswer.definition}
+                        <Text style={styles.sentence}>
+                            {currentSentence && currentSentence.simplified}
                         </Text>
-                    )}
-                    {pinyinAnswer && meaningAnswer && (
-                        <TouchableOpacity onPress={() => this.reset()}>
-                            <Text>Next</Text>
-                        </TouchableOpacity>
-                    )}
+                        {pinyinAnswer && (
+                            <Text style={styles.sentence}>
+                                {currentSentence && currentSentence.pinyin}
+                            </Text>
+                        )}
+                        {pinyinAnswer && meaningAnswer && (
+                            <Text style={styles.sentence}>
+                                {currentSentence && currentSentence.english}
+                            </Text>
+                        )}
+                    </View>
+                    <View style={styles.currentAnswers}>
+                        {!pinyinAnswer && (
+                            <View style={styles.answers}>
+                                {this.renderAnswers(
+                                    pinyinAnswers,
+                                    'pinyinAnswer',
+                                )}
+                            </View>
+                        )}
+                        {pinyinAnswer && !meaningAnswer && (
+                            <View style={styles.answers}>
+                                {this.renderAnswers(
+                                    meaningAnswers,
+                                    'meaningAnswer',
+                                )}
+                            </View>
+                        )}
+
+                        {pinyinAnswer && meaningAnswer && (
+                            <TouchableOpacity
+                                style={styles.next}
+                                onPress={() => this.reset()}>
+                                <Text style={styles.nextText}>Next</Text>
+                            </TouchableOpacity>
+                        )}
+                    </View>
                 </SafeAreaView>
             </ImageBackground>
         );
@@ -220,6 +240,17 @@ const styles = StyleSheet.create({
     safeArea: {
         flex: 1,
         flexDirection: 'column',
+    },
+    topRow: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    displayAnswer: {
+        textAlign: 'center',
+        flexWrap: 'wrap',
+        fontSize: 25,
+        width: Dimensions.get('window').width / 4,
     },
     answers: {
         justifyContent: 'center',
@@ -239,6 +270,20 @@ const styles = StyleSheet.create({
         fontSize: 25,
         padding: 20,
         textAlign: 'center',
+    },
+    currentCharacter: {
+        flex: 2,
+    },
+    currentAnswers: {
+        flex: 1,
+    },
+    next: {
+        padding: 20,
+        borderWidth: 1,
+    },
+    nextText: {
+        textAlign: 'center',
+        fontSize: 35,
     },
     character: {
         margin: 35,

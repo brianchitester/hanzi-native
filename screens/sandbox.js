@@ -1,6 +1,7 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet, View, Text, Dimensions} from 'react-native';
 import {TouchableOpacity} from 'react-native-gesture-handler';
+import Head from '../components/head';
 
 const renderItems = items => {
     return items.map(item => {
@@ -15,6 +16,7 @@ const renderItems = items => {
 const Sandbox = ({navigation}) => {
     return (
         <SafeAreaView style={styles.safeArea}>
+            <Head />
             <View style={styles.items}>
                 {renderItems(['one', 'two', 'three', 'four'])}
             </View>
