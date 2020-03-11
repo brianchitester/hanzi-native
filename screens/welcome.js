@@ -27,11 +27,11 @@ const Welcome = ({navigation}) => {
 const styles = StyleSheet.create({
     欢迎: {
         textAlign: 'center',
-        fontSize: 200,
+        fontSize: 140,
     },
     start: {
         textAlign: 'center',
-        fontSize: 100,
+        fontSize: 70,
     },
     backgroundImage: {
         flex: 1,

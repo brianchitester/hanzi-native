@@ -1,24 +1,29 @@
 import React from 'react';
-import {SafeAreaView, StyleSheet, View, Text, Dimensions} from 'react-native';
+import {
+    SafeAreaView,
+    StyleSheet,
+    Text,
+    Dimensions,
+    FlatList,
+    View,
+} from 'react-native';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 import Head from '../components/head';
-
-const renderItems = items => {
-    return items.map(item => {
-        return (
-            <TouchableOpacity style={styles.item}>
-                <Text style={styles.itemText}>{item}</Text>
-            </TouchableOpacity>
-        );
-    });
-};
 
 const Sandbox = ({navigation}) => {
     return (
         <SafeAreaView style={styles.safeArea}>
             <Head />
             <View style={styles.items}>
-                {renderItems(['one', 'two', 'three', 'four'])}
+                <FlatList
+                    data={['one slightly longer one', 'two', 'three', 'four']}
+                    numColumns={2}
+                    renderItem={({item}) => (
+                        <TouchableOpacity style={styles.item}>
+                            <Text style={styles.itemText}>{item}</Text>
+                        </TouchableOpacity>
+                    )}
+                />
             </View>
         </SafeAreaView>
     );
@@ -28,21 +33,16 @@ const styles = StyleSheet.create({
     safeArea: {
         flex: 1,
     },
-    items: {
-        justifyContent: 'center',
-        flexDirection: 'row',
-        flexWrap: 'wrap',
-        borderWidth: 1,
-        padding: 5,
-    },
-    item: {
-        width: Dimensions.get('window').width / 2 - 20,
-        borderWidth: 1,
-    },
     itemText: {
-        fontSize: 25,
-        padding: 20,
+        width: Dimensions.get('window').width / 2 - 20,
+        height: 120,
+        fontSize: 26,
         textAlign: 'center',
+        textAlignVertical: 'center',
+        padding: 20,
+        margin: 10,
+        borderWidth: 1,
+        borderRadius: 5,
     },
 });
 

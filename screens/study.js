@@ -6,6 +6,7 @@ import {
     Text,
     ImageBackground,
     Dimensions,
+    FlatList,
 } from 'react-native';
 import backgroundImage from '../assets/background.png';
 import Head from '../components/head';
@@ -99,6 +100,7 @@ class Study extends Component {
     }
 
     reset = async () => {
+        console.log('reset');
         let {maxCharacters} = this.state;
         if (!maxCharacters) {
             maxCharacters = await getSetting('@CharacterCount', 1000);
@@ -119,27 +121,6 @@ class Study extends Component {
         this.reset();
     }
 
-    renderAnswers = (answers, answerType) => {
-        return answers.map(answer => {
-            return (
-                <TouchableOpacity
-                    onPress={() =>
-                        this.setState({
-                            [answerType]: answer,
-                        })
-                    }
-                    style={styles.answer}
-                    key={answer.pinyin}>
-                    <Text style={styles.answerText}>
-                        {answer && answerType === 'pinyinAnswer'
-                            ? answer.pinyin
-                            : answer.definition}
-                    </Text>
-                </TouchableOpacity>
-            );
-        });
-    };
-
     render() {
         const {
             currentCharacter,
@@ -149,6 +130,9 @@ class Study extends Component {
             meaningAnswer,
             meaningAnswers,
         } = this.state;
+        if (!currentCharacter) {
+            return null;
+        }
         return (
             <ImageBackground
                 source={backgroundImage}
@@ -206,20 +190,42 @@ class Study extends Component {
                     </View>
                     <View style={styles.currentAnswers}>
                         {!pinyinAnswer && (
-                            <View style={styles.answers}>
-                                {this.renderAnswers(
-                                    pinyinAnswers,
-                                    'pinyinAnswer',
+                            <FlatList
+                                data={pinyinAnswers}
+                                numColumns={2}
+                                renderItem={({item}) => (
+                                    <TouchableOpacity
+                                        onPress={() =>
+                                            this.setState({
+                                                pinyinAnswer: item,
+                                            })
+                                        }
+                                        key={item.pinyin}>
+                                        <Text style={styles.answerText}>
+                                            {item.pinyin}
+                                        </Text>
+                                    </TouchableOpacity>
                                 )}
-                            </View>
+                            />
                         )}
                         {pinyinAnswer && !meaningAnswer && (
-                            <View style={styles.answers}>
-                                {this.renderAnswers(
-                                    meaningAnswers,
-                                    'meaningAnswer',
+                            <FlatList
+                                data={meaningAnswers}
+                                numColumns={2}
+                                renderItem={({item}) => (
+                                    <TouchableOpacity
+                                        onPress={() =>
+                                            this.setState({
+                                                meaningAnswer: item,
+                                            })
+                                        }
+                                        key={item.definition}>
+                                        <Text style={styles.answerText}>
+                                            {item.definition}
+                                        </Text>
+                                    </TouchableOpacity>
                                 )}
-                            </View>
+                            />
                         )}
 
                         {pinyinAnswer && meaningAnswer && (
@@ -252,39 +258,33 @@ const styles = StyleSheet.create({
         fontSize: 25,
         width: Dimensions.get('window').width / 4,
     },
-    answers: {
-        justifyContent: 'center',
-        flexDirection: 'row',
-        flexWrap: 'wrap',
-        borderWidth: 1,
-        padding: 5,
-    },
-    answer: {
-        flexWrap: 'wrap',
-        flexDirection: 'row',
-        justifyContent: 'center',
-        width: Dimensions.get('window').width / 2 - 20,
-        height: 100,
-        borderWidth: 1,
-    },
     answerText: {
-        fontSize: 25,
-        padding: 20,
+        width: Dimensions.get('window').width / 2 - 20,
+        height: 120,
+        fontSize: 26,
         textAlign: 'center',
+        textAlignVertical: 'center',
+        padding: 20,
+        margin: 10,
+        borderWidth: 1,
+        borderRadius: 15,
     },
     currentCharacter: {
         flex: 2,
     },
     currentAnswers: {
-        flex: 1,
-    },
-    next: {
-        padding: 20,
-        borderWidth: 1,
+        flex: 2,
+        justifyContent: 'center',
+        alignItems: 'center',
     },
     nextText: {
+        borderWidth: 1,
+        padding: 20,
+        marginTop: 20,
         textAlign: 'center',
         fontSize: 35,
+        width: Dimensions.get('window').width / 2 - 20,
+        borderRadius: 15,
     },
     character: {
         margin: 35,
