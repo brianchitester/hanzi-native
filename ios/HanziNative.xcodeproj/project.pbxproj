@@ -16,6 +16,7 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* HanziNativeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HanziNativeTests.m */; };
+		5A08C51F2423CBFE00678CF0 /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5A08C51E2423CBFE00678CF0 /* AppCenter-Config.plist */; };
 		85B593D65A1A1ED04141FD4C /* libPods-HanziNativeTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20005A3DC8AB8C7FC812F835 /* libPods-HanziNativeTests.a */; };
 		9A38EAFEC4FC77279DD9D7A4 /* libPods-HanziNative-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D8BD391B6FB2E81A0C984569 /* libPods-HanziNative-tvOS.a */; };
 		A758D5F29F34C69A77E3FE4F /* libPods-HanziNative-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6B7F75FA3FD4DAB46D03E2F /* libPods-HanziNative-tvOSTests.a */; };
@@ -55,6 +56,7 @@
 		2D02E47B1E0B4A5D006451C7 /* HanziNative-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HanziNative-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* HanziNative-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HanziNative-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EDD3BC19AA112E22A8050FA /* Pods-HanziNative-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HanziNative-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-HanziNative-tvOSTests/Pods-HanziNative-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5A08C51E2423CBFE00678CF0 /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "AppCenter-Config.plist"; sourceTree = "<group>"; };
 		5A62800015785393D1D9F26A /* Pods-HanziNative-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HanziNative-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-HanziNative-tvOS/Pods-HanziNative-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		6DB4B3521E7D722142528BD1 /* libPods-HanziNative.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HanziNative.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7800655074BCF82ACA3A3701 /* Pods-HanziNative-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HanziNative-tvOS.release.xcconfig"; path = "Target Support Files/Pods-HanziNative-tvOS/Pods-HanziNative-tvOS.release.xcconfig"; sourceTree = "<group>"; };
@@ -161,7 +163,6 @@
 				CC6AB6A3CDD335D8D91C94E9 /* Pods-HanziNativeTests.debug.xcconfig */,
 				D45CAB0278CE910E5846D9FE /* Pods-HanziNativeTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -175,6 +176,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				5A08C51E2423CBFE00678CF0 /* AppCenter-Config.plist */,
 				13B07FAE1A68108700A75B9A /* HanziNative */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* HanziNativeTests */,
@@ -308,6 +310,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -338,6 +341,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				5A08C51F2423CBFE00678CF0 /* AppCenter-Config.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

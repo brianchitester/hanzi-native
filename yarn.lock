@@ -1322,6 +1322,39 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
+appcenter-analytics@3.0.0:
+  version "3.0.0"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/appcenter-analytics/-/appcenter-analytics-3.0.0.tgz#ae4e223adf384a1dbb9cb6f61837390652198e34"
+  integrity sha1-rk4iOt84Sh27nLb2GDc5BlIZjjQ=
+  dependencies:
+    appcenter "3.0.0"
+
+appcenter-crashes@3.0.0:
+  version "3.0.0"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/appcenter-crashes/-/appcenter-crashes-3.0.0.tgz#14c6de7f2037cdcb942649c77c45c914e6eb3f4c"
+  integrity sha1-FMbefyA3zcuUJknHfEXJFObrP0w=
+  dependencies:
+    appcenter "3.0.0"
+
+appcenter-link-scripts@3.0.0:
+  version "3.0.0"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/appcenter-link-scripts/-/appcenter-link-scripts-3.0.0.tgz#f358768ccb28857f2d8b284cbe8a494d93c4ebf3"
+  integrity sha1-81h2jMsohX8tiyhMvopJTZPE6/M=
+  dependencies:
+    debug "4.1.1"
+    glob "5.0.15"
+    mkdirp "0.5.1"
+    plist "3.0.1"
+    which "1.2.11"
+    xcode "2.0.0"
+
+appcenter@3.0.0:
+  version "3.0.0"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/appcenter/-/appcenter-3.0.0.tgz#9b6a451426f9c8fa2c1c02c6ebeeb1a2fda598a2"
+  integrity sha1-m2pFFCb5yPosHALG6+6xov2lmKI=
+  dependencies:
+    appcenter-link-scripts "3.0.0"
+
 argparse@^1.0.7:
   version "1.0.10"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"
@@ -2091,7 +2124,7 @@ debug@2.6.9, debug@^2.2.0, debug@^2.3.3:
   dependencies:
     ms "2.0.0"
 
-debug@^4.0.1, debug@^4.1.0, debug@^4.1.1:
+debug@4.1.1, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1:
   version "4.1.1"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
   integrity sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E=
@@ -2942,6 +2975,17 @@ glob-parent@^5.0.0:
   dependencies:
     is-glob "^4.0.1"
 
+glob@5.0.15:
+  version "5.0.15"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/glob/-/glob-5.0.15.tgz#1bc936b9e02f4a603fcc222ecf7633d30b8b93b1"
+  integrity sha1-G8k2ueAvSmA/zCIuz3Yz0wuLk7E=
+  dependencies:
+    inflight "^1.0.4"
+    inherits "2"
+    minimatch "2 || 3"
+    once "^1.3.0"
+    path-is-absolute "^1.0.0"
+
 glob@^7.1.1, glob@^7.1.2, glob@^7.1.3:
   version "7.1.6"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/glob/-/glob-7.1.6.tgz#141f33b81a7c2492e125594307480c46679278a6"
@@ -3400,6 +3444,11 @@ isarray@1.0.0, isarray@~1.0.0:
   version "1.0.0"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
   integrity sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
+
+isexe@^1.1.1:
+  version "1.1.2"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/isexe/-/isexe-1.1.2.tgz#36f3e22e60750920f5e7241a476a8c6a42275ad0"
+  integrity sha1-NvPiLmB1CSD15yQaR2qMakInWtA=
 
 isexe@^2.0.0:
   version "2.0.0"
@@ -4491,7 +4540,7 @@ mimic-fn@^2.0.0, mimic-fn@^2.1.0:
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/mimic-fn/-/mimic-fn-2.1.0.tgz#7ed2c2ccccaf84d3ffcb7a69b57711fc2083401b"
   integrity sha1-ftLCzMyvhNP/y3pptXcR/CCDQBs=
 
-minimatch@^3.0.4:
+"minimatch@2 || 3", minimatch@^3.0.4:
   version "3.0.4"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
   integrity sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=
@@ -4516,7 +4565,7 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
-mkdirp@^0.5.1:
+mkdirp@0.5.1, mkdirp@^0.5.1:
   version "0.5.1"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
@@ -5029,7 +5078,7 @@ pkg-dir@^3.0.0:
   dependencies:
     find-up "^3.0.0"
 
-plist@^3.0.0, plist@^3.0.1:
+plist@3.0.1, plist@^3.0.0, plist@^3.0.1:
   version "3.0.1"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/plist/-/plist-3.0.1.tgz#a9b931d17c304e8912ef0ba3bdd6182baf2e1f8c"
   integrity sha1-qbkx0XwwTokS7wujvdYYK68uH4w=
@@ -6489,6 +6538,13 @@ which-module@^2.0.0:
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/which-module/-/which-module-2.0.0.tgz#d9ef07dce77b9902b8a3a8fa4b31c3e3f7e6e87a"
   integrity sha1-2e8H3Od7mQK4o6j6SzHD4/fm6Ho=
 
+which@1.2.11:
+  version "1.2.11"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/which/-/which-1.2.11.tgz#c8b2eeea6b8c1659fa7c1dd4fdaabe9533dc5e8b"
+  integrity sha1-yLLu6muMFln6fB3U/aq+lTPcXos=
+  dependencies:
+    isexe "^1.1.1"
+
 which@^1.2.9, which@^1.3.0:
   version "1.3.1"
   resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/which/-/which-1.3.1.tgz#a45043d54f5805316da8d62f9f50918d3da70b0a"
@@ -6576,6 +6632,14 @@ ws@^5.2.0:
   integrity sha1-3/7xSGa46NyRM1glFNG++vlumA8=
   dependencies:
     async-limiter "~1.0.0"
+
+xcode@2.0.0:
+  version "2.0.0"
+  resolved "https://dev-artifacts.dc.c-gurus.com/artifactory/api/npm/npm-registry/xcode/-/xcode-2.0.0.tgz#134f1f94c26fbfe8a9aaa9724bfb2772419da1a2"
+  integrity sha1-E08flMJvv+ipqqlyS/snckGdoaI=
+  dependencies:
+    simple-plist "^1.0.0"
+    uuid "^3.3.2"
 
 xcode@^2.0.0:
   version "2.1.0"
